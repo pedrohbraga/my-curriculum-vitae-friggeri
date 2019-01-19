@@ -12,10 +12,11 @@ address: "Office SP 301.11, Department of Biology, Concordia University"
 website: "pedrohbraga.github.io"
 orcid: 0000-0002-1308-1562
 languages: "English, French, Portuguese - fluent written & oral skills"
-programming: "**dev:** R **use:** R, Matlab, ArcGIS, Julia, SQL, markdown, LaTeX"
+programming: "**dev:** R **use:** R, Matlab, SQL, markdown, LaTeX, Julia"
 github: pedrohbraga
 twitter: pedrohp_braga
-attributes: "proactive leadership, articulate and easy-going, interpersonal and cooperative skills, adaptive management and organisational skills, cheerful $\\Summertree$, public speaking and communication skills"
+attributes: "articulate, interpersonal and cooperative skills, proactive leadership, adaptive management and organisational skills, public speaking and communication skills, cheerful $\\Summertree$"
+hobbies: "running, cycling, hiking, cooking, DIY"
 interests: "As an **evolutionary ecologist**, I am interested in using information on the **evolutionary history of species** and their **ecological attributes** to understand general **processes and mechanisms that generate biodiversity patterns**. In my research, I stress the **importance of phylogenetic and spatial scales and historical components of ecological and evolutionary drivers**."
 edu:
   - {degree: Ph.D., 
