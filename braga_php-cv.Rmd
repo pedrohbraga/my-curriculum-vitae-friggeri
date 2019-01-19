@@ -1,0 +1,174 @@
+---
+output:
+  pdf_document:
+    latex_engine: lualatex
+    template: braga_php-cv-template.tex
+date: January 15, 2019
+first: Pedro Henrique P. 
+last: Braga
+email: ph.pereirabraga@gmail.com
+profilepic: avatar-phpb.jpg
+address: "Office SP 301.11, Department of Biology, Concordia University"
+website: "pedrohbraga.github.io"
+orcid: 0000-0002-1308-1562
+languages: "English, French, Portuguese - fluent written & oral skills"
+programming: "**dev:** R **use:** R, Matlab, ArcGIS, Julia, SQL, markdown, LaTeX"
+github: pedrohbraga
+twitter: pedrohp_braga
+attributes: "proactive leadership, articulate and easy-going, interpersonal and cooperative skills, adaptive management and organisational skills, cheerful $\\Summertree$, public speaking and communication skills"
+interests: "As an **evolutionary ecologist**, I am interested in using information on the **evolutionary history of species** and their **ecological attributes** to understand general **processes and mechanisms that generate biodiversity patterns**. In my research, I stress the **importance of phylogenetic and spatial scales and historical components of ecological and evolutionary drivers**."
+edu:
+  - {degree: Ph.D., 
+  where: "Concordia University, Montréal, CA", 
+  description_1: "Student in Biology",
+  description_2: "Thesis: *Spatial and phylogenetic scale-dependence in the evolutionary and ecological determinants of diversity patterns in bats*",
+  description_3:  "Supervisors: *Pedro **Peres-Neto*** & *Steven **Kembel***"}
+  - {degree: M.Sc., 
+  where: "Federal University of Goiás, Goiânia, BR", 
+  description_1: "in Ecology and Evolution",
+  description_2: "Thesis: *Niche evolution and diversification patterns in Neotropical anurans*",
+  description_3:  "Supervisors: *Natan Medeiros **Maciel*** & *Paulo **De Marco***"}
+  - {degree: B.Sc., 
+  where: "Federal University of Goiás, Goiânia, BR",
+  description_1: "in Biological Sciences",
+  description_2: "Honours Thesis: *Adaptive climatic niche evolution in bufonid frogs*",
+  description_3:  "Supervisors: *Natan Medeiros **Maciel*** & *Paulo **De Marco***"}
+  
+teaching:
+  - {year: "Fall 2018", 
+  where: "Concordia University", 
+  what: "Biostatistics (BIOL322)",
+  position: "Teaching Assistant"}
+  - {year: "Fall 2018", 
+  where: "Concordia University", 
+  what: "QCBS R Workshop Series \ \nggplot & plyr \ \nProgramming in R ",
+  position: "Workshop Instructor"}
+  - {year: "Summer 2018", 
+  where: "Concordia University", 
+  what: "Fundamentals of Nutrition (BIOL203)",
+  position: "Teaching Assistant"}
+  - {year: "Winter 2018", 
+  where: "Concordia University", 
+  what: "Fundamentals of Nutrition (eBIOL203)",
+  position: "Teaching Assistant"}
+  - {year: "Winter 2018", 
+  where: "Concordia University \n McGill University", 
+  what: "QCBS R Workshop Series \ \nGeneralized Linear Mixed Models \ \nMultivariate Analyses",
+  position: "Workshop Instructor"}
+  - {year: "Fall 2017", 
+  where: "Concordia University \n McGill University", 
+  what: "QCBS R Workshop Series \ \nIntroduction to ggplot2 & dplyr \ \nLinear Models in R",
+  position: "Workshop Instructor"}
+  - {year: "Winter 2017", 
+  where: "McGill University", 
+  what: "QCBS R Workshop Series \ \nGeneralized Linear Mixed Models \ \nMultivariate Analyses",
+  position: "Workshop Instructor"}
+  - {year: "Fall 2016", 
+  where: "Université du Québec à Montréal", 
+  what: "Séminaire en écologie et analyse des données (BIO3500)",
+  position: "Teaching Assistant"}
+  - {year: "Fall 2016", 
+  where: "McGill University", 
+  what: "QCBS R Workshop Series \ \nIntroduction to R \ \nCharger et manipuler des données en R \ \nLoading and manipulating data in R \ \nIntroduction to ggplot \ \nLinear models \ \nProgramming in R",
+  position: "Workshop Instructor"}
+  - {year: "Winter 2016", 
+  where: "McGill University", 
+  what: "QCBS R Workshop Series \ \nLinear mixed models \ \nAdvanced multivariate analyses \ \nProgramming in R",
+  position: "Workshop Instructor"}
+  - {year: "Winter 2013", 
+  where: "Federal University of Goiás", 
+  what: "Biostatistics",
+  position: "Teaching Assistant"}    
+ 
+award:
+  - {year: "2014-2018", 
+  name: "**Scholarship**: Science without Borders Ph.D. Scholarship from the National Council of Research and Development (CNPq) (249289/2013-0)", 
+  value: "CAD 160,000"}
+  - {year: "2018", 
+  name: "**Award**: Learning and Development Award (LeaDA) from the Québec Centre for Biodiversity Science (QCBS)", 
+  value: "CAD 1,825"}
+  - {year: "2018", 
+  name: "**Award**: Excellence Award from the Québec Centre for Biodiversity Science (QCBS)", 
+  value: "CAD 1,140"}
+  - {year: "2017", 
+  name: "**Award**: Learning and Development Award (LeaDA) from the Québec Centre for Biodiversity Science (QCBS)", 
+  value: "CAD 250"}
+  - {year: "2017", 
+  name: "**Award**: Learning and Development Award (LeaDA) from the Québec Centre for Biodiversity Science (QCBS)", 
+  value: "CAD 963"}
+  - {year: "2015-08", 
+  name: "**Grant**: Deutscher Akademischer Austauschdienst (DAAD) travel grant for the 2015 iDiv Summer School on Biodiversity Synthesis", 
+  value: "EUR 1,450"}
+  - {year: "2012-2014", 
+  name: "**Scholarship**: M.Sc. Scholarship from the Coordination for the Improvement of Higher Education Personnel (CAPES)", 
+  value: "BRL 28,800"}
+  - {year: "2011-2012", 
+  name: "**Scholarship**: National Council of Research and Development (CNPq) Undergraduate Research Scholarship",
+  value: "BRL 3,000"}
+
+membership: 
+  - {year: "2016-current", name: "International Biogeography Society, Student Member"}
+  - {year: "2015-current", name: "Québec Centre for Biodiversity Science, Student Representative"}
+  - {year: 2017-2017, name: "Ecology Society of America, Student Member"}
+  - {year: 2011-2012, name: "Brazilian Herpetology Society, Student Member"}
+
+bibliography: phpb-googlescholar.bib
+
+csl: apa.csl
+
+nocite: |
+  @peixoto2018synthesis, @peixoto2014global, 
+  @batista2013dendropsophus,
+  @maciel2013distribution
+---
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+library("googlesheets")
+library("dplyr")
+```
+
+```{r presentations, eval = FALSE, echo = FALSE, message = FALSE, warning = FALSE}
+presentations <- gs_url("https://docs.google.com/spreadsheets/d/1uBPoPzRA4aY4tSeYbMXjpqEYKE0aGUEzKEopnxYyd9k/edit?usp=sharing", 
+                        verbose = FALSE) %>%
+  gs_read(verbose = FALSE) %>%
+  arrange(invited, 
+          desc(when))
+save(presentations, 
+     file = "phpb-presentations.rda")
+```
+
+```{r load-presentations, message=FALSE, warning=FALSE, include=FALSE, echo=FALSE}
+load("phpb-presentations.rda")
+```
+
+# Contributed Presentations
+\vspace{-0.05cm}
+
+```{r, results = "asis", echo = FALSE}
+contrib <- presentations %>%
+  filter(invited == 0) %>%
+  arrange(-when)
+
+glue::glue_data(contrib, 
+                "**>venue<** \\fn{>what<}",
+                "\\begin{quote}>gsub('\\\\*', '', who)<, \\href{>link<}{>title<}. \\textit{>venue<}. (>when<). >where<.\\end{quote}",
+                .open = ">", .close = "<")
+```
+
+# Outreach
+\vspace{-0.05cm}
+
+```{r, results = "asis", message = FALSE, warning = FALSE, echo = FALSE}
+invited <- presentations %>%
+  filter(invited == 1) %>%
+  arrange(-when)
+
+glue::glue_data(invited, 
+                "**>venue<** \\fn{>what<}",
+                "\\begin{quote}>gsub('\\\\*', '', who)<, \\href{>link<}{>title<}. \\textit{>venue<}. (>when<). >where<.\\end{quote}",
+                .open = ">", 
+                .close = "<")
+```
+
+# Peer-reviewed Publications
+\vspace{-0.05cm}
