@@ -129,7 +129,7 @@ library("dplyr")
 ```
 
 ```{r presentations, eval = FALSE, echo = FALSE, message = FALSE, warning = FALSE}
-presentations <- gs_url("https://docs.google.com/spreadsheets/d/1uBPoPzRA4aY4tSeYbMXjpqEYKE0aGUEzKEopnxYyd9k/edit?usp=sharing", 
+presentations <- gs_url("https://docs.google.com/spreadsheets/d/1uBPoPzRA4aY4tSeYbMXjpqEYKE0aGUEzKEopnxYyd9k/edit?usp=sharing",
                         verbose = FALSE) %>%
   gs_read(verbose = FALSE) %>%
   arrange(invited, 
