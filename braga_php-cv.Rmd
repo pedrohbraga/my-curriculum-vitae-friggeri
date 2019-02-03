@@ -106,7 +106,10 @@ award:
   - {year: "2017", 
   name: "**Award**: Learning and Development Award (LeaDA) from the Québec Centre for Biodiversity Science (QCBS)", 
   value: "CAD 963"}
-  - {year: "2015-08", 
+  - {year: "2015", 
+  name: "**Award**: Non-tuition fees funding for the Intensive Course in Biodiversity Science from the Québec Centre for Biodiversity Science (QCBS)", 
+  value: "CAD 1380"}
+  - {year: "2015", 
   name: "**Grant**: Deutscher Akademischer Austauschdienst (DAAD) travel grant for the 2015 iDiv Summer School on Biodiversity Synthesis", 
   value: "EUR 1,450"}
   - {year: "2012-2014", 
