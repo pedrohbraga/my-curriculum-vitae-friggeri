@@ -3,7 +3,7 @@ output:
   pdf_document:
     latex_engine: lualatex
     template: braga_php-cv-template.tex
-date: January 15, 2019
+date: February 01, 2019
 first: Pedro Henrique P. 
 last: Braga
 email: ph.pereirabraga@gmail.com
@@ -16,25 +16,28 @@ programming: "**dev:** R **use:** R, Matlab, SQL, markdown, LaTeX, Julia"
 github: pedrohbraga
 twitter: pedrohp_braga
 attributes: "articulate, interpersonal and cooperative skills, proactive leadership, adaptive management and organisational skills, public speaking and communication skills, cheerful $\\Summertree$"
-hobbies: "running, cycling, hiking, cooking, DIY"
-interests: "As an **evolutionary ecologist**, I am interested in using information on the **evolutionary history of species** and their **ecological attributes** to understand general **processes and mechanisms that generate biodiversity patterns**. In my research, I stress the **importance of phylogenetic and spatial scales and historical components of ecological and evolutionary drivers**."
+hobbies: "running, cycling, hiking, crafting and cooking"
+interests: "As an **evolutionary ecologist**, I am interested in using information on the **evolutionary history of species** and their **ecological attributes** to understand general **processes and mechanisms that generate biodiversity patterns**. In my research, I stress the **importance of phylogenetic and spatial scales and historical components of ecological and evolutionary drivers**. I practice and promote **open and reproducible science**. I also value and I am dedicated towards the development of my **teaching** and **scientific communication** abilities."
 edu:
-  - {degree: Ph.D., 
-  where: "Concordia University, Montréal, CA", 
-  description_1: "Student in Biology",
+  - {degree: Ph.D.,
+  description_1: "Student in Biology", 
+  when: "2014 to *Current*",
+  where: "Concordia University, Montréal, CA",
   description_2: "Thesis: *Spatial and phylogenetic scale-dependence in the evolutionary and ecological determinants of diversity patterns in bats*",
   description_3:  "Supervisors: *Pedro **Peres-Neto*** & *Steven **Kembel***"}
-  - {degree: M.Sc., 
+  - {degree: M.Sc.,
+  when: "2012 to 2014", 
   where: "Federal University of Goiás, Goiânia, BR", 
   description_1: "in Ecology and Evolution",
   description_2: "Thesis: *Niche evolution and diversification patterns in Neotropical anurans*",
   description_3:  "Supervisors: *Natan Medeiros **Maciel*** & *Paulo **De Marco***"}
-  - {degree: B.Sc., 
+  - {degree: B.Sc.,
+  when: "2008 to 2012",
   where: "Federal University of Goiás, Goiânia, BR",
   description_1: "in Biological Sciences",
   description_2: "Honours Thesis: *Adaptive climatic niche evolution in bufonid frogs*",
   description_3:  "Supervisors: *Natan Medeiros **Maciel*** & *Paulo **De Marco***"}
-  
+
 teaching:
   - {year: "Fall 2018", 
   where: "Concordia University", 
@@ -80,7 +83,13 @@ teaching:
   where: "Federal University of Goiás", 
   what: "Biostatistics",
   position: "Teaching Assistant"}    
- 
+
+professional:
+  - {year: "2017-*Current*", 
+  where: "Montréal, Canada", 
+  what: "Québec Centre for Biodiversity Science",
+  position: "Coordinator of the QCBS R Workshop Series"}
+
 award:
   - {year: "2014-2018", 
   name: "**Scholarship**: Science without Borders Ph.D. Scholarship from the National Council of Research and Development (CNPq) (249289/2013-0)", 
@@ -108,8 +117,8 @@ award:
   value: "BRL 3,000"}
 
 membership: 
-  - {year: "2016-current", name: "International Biogeography Society, Student Member"}
-  - {year: "2015-current", name: "Québec Centre for Biodiversity Science, Student Representative"}
+  - {year: "2016-*Current*", name: "International Biogeography Society, Student Member"}
+  - {year: "2015-*Current*", name: "Québec Centre for Biodiversity Science, Student Representative"}
   - {year: 2017-2017, name: "Ecology Society of America, Student Member"}
   - {year: 2011-2012, name: "Brazilian Herpetology Society, Student Member"}
 
