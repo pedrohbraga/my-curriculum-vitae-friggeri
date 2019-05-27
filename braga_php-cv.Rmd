@@ -3,7 +3,7 @@ output:
   pdf_document:
     latex_engine: lualatex
     template: braga_php-cv-template.tex
-date: February 01, 2019
+date: March 19, 2019
 first: Pedro Henrique P. 
 last: Braga
 email: ph.pereirabraga@gmail.com
