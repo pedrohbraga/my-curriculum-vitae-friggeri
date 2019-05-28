@@ -3,7 +3,7 @@ output:
   pdf_document:
     latex_engine: lualatex
     template: braga_php-cv-template.tex
-date: March 19, 2019
+date: May 27, 2019
 first: Pedro Henrique P. 
 last: Braga
 email: ph.pereirabraga@gmail.com
@@ -17,108 +17,120 @@ github: pedrohbraga
 twitter: pedrohp_braga
 attributes: "articulate, interpersonal and cooperative skills, proactive leadership, adaptive management and organisational skills, public speaking and communication skills, cheerful $\\Summertree$"
 hobbies: "running, cycling, hiking, crafting and cooking"
-interests: "As an **evolutionary ecologist**, I am interested in using information on the **evolutionary history of species** and their **ecological attributes** to understand general **processes and mechanisms that generate biodiversity patterns**. In my research, I stress the **importance of phylogenetic and spatial scales and historical components of ecological and evolutionary drivers**. I practice and promote **open and reproducible science**. I also value and I am dedicated towards the development of my **teaching** and **scientific communication** abilities."
+interests: "As an **evolutionary ecologist**, I am interested in using information on the **evolutionary history of species** and their **ecological attributes** to understand general **processes and mechanisms that generate biodiversity patterns**. In my research, I stress the **importance of phylogenetic and spatial scales and historical components of ecological and evolutionary drivers**. I practice and promote **open and reproducible science**. I am also dedicated towards the integration of evidence-based **active learning strategies** in my **teaching** and **scientific communication** abilities."
+
 edu:
   - {degree: Ph.D.,
-  description_1: "Student in Biology", 
-  when: "2014 to *Current*",
-  where: "Concordia University, Montréal, CA",
-  description_2: "Thesis: *Spatial and phylogenetic scale-dependence in the evolutionary and ecological determinants of diversity patterns in bats*",
-  description_3:  "Supervisors: *Pedro **Peres-Neto*** & *Steven **Kembel***"}
+     description_1: "Student in Biology",
+     when: "2014 to *Current*",
+     where: "Concordia University, Montréal, CA",
+     description_2: "Thesis: *Spatial and phylogenetic scale-dependence in the evolutionary and ecological determinants of diversity patterns in bats*",
+     description_3: "Supervisors: *Pedro **Peres-Neto*** & *Steven **Kembel***"}
   - {degree: M.Sc.,
-  when: "2012 to 2014", 
-  where: "Federal University of Goiás, Goiânia, BR", 
-  description_1: "in Ecology and Evolution",
-  description_2: "Thesis: *Niche evolution and diversification patterns in Neotropical anurans*",
-  description_3:  "Supervisors: *Natan Medeiros **Maciel*** & *Paulo **De Marco***"}
+     when: "2012 to 2014",
+     where: "Federal University of Goiás, Goiânia, BR",
+     description_1: "in Ecology and Evolution",
+     description_2: "Thesis: *Niche evolution and diversification patterns in Neotropical anurans*",
+     description_3: "Supervisors: *Natan Medeiros **Maciel*** & *Paulo **De Marco***"}
   - {degree: B.Sc.,
-  when: "2008 to 2012",
-  where: "Federal University of Goiás, Goiânia, BR",
-  description_1: "in Biological Sciences",
-  description_2: "Honours Thesis: *Adaptive climatic niche evolution in bufonid frogs*",
-  description_3:  "Supervisors: *Natan Medeiros **Maciel*** & *Paulo **De Marco***"}
-
+     when: "2008 to 2012",
+     where: "Federal University of Goiás, Goiânia, BR",
+     description_1: "in Biological Sciences",
+     description_2: "Honours Thesis: *Adaptive climatic niche evolution in bufonid frogs*",
+     description_3: "Supervisors: *Natan Medeiros **Maciel*** & *Paulo **De Marco***"}
+     
 teaching:
+  - {year: "2019", 
+     where: "Dawson College \n Concordia University", 
+     what: "**S**upporting **A**ctive **L**earning and **T**echnological **I**nnovation in **S**tudies of **E**ducation (SALTISE)",
+     position: "Pedagogical Formation"}
+  - {year: "Winter 2019", 
+     where: "Concordia University", 
+     what: "Advanced Multivariate Analyses",
+     position: "Workshop Instructor"}
   - {year: "Fall 2018", 
-  where: "Concordia University", 
-  what: "Biostatistics (BIOL322)",
-  position: "Teaching Assistant"}
+     where: "Concordia University", 
+     what: "Biostatistics (BIOL322)",
+     position: "Teaching Assistant"}
   - {year: "Fall 2018", 
-  where: "Concordia University", 
-  what: "QCBS R Workshop Series \ \nggplot & plyr \ \nProgramming in R ",
-  position: "Workshop Instructor"}
+     where: "Concordia University", 
+     what: "QCBS R Workshop Series \ \nggplot & plyr \ \nProgramming in R ",
+     position: "Workshop Instructor"}
   - {year: "Summer 2018", 
-  where: "Concordia University", 
-  what: "Fundamentals of Nutrition (BIOL203)",
-  position: "Teaching Assistant"}
+     where: "Concordia University", 
+     what: "Fundamentals of Nutrition (BIOL203)",
+     position: "Teaching Assistant"}
   - {year: "Winter 2018", 
-  where: "Concordia University", 
-  what: "Fundamentals of Nutrition (eBIOL203)",
-  position: "Teaching Assistant"}
+     where: "Concordia University", 
+     what: "Fundamentals of Nutrition (eBIOL203)",
+     position: "Teaching Assistant"}
   - {year: "Winter 2018", 
-  where: "Concordia University \n McGill University", 
-  what: "QCBS R Workshop Series \ \nGeneralized Linear Mixed Models \ \nMultivariate Analyses",
-  position: "Workshop Instructor"}
+     where: "Concordia University \n McGill University", 
+     what: "QCBS R Workshop Series \ \nGeneralized Linear Mixed Models \ \nMultivariate Analyses",
+     position: "Workshop Instructor"}
   - {year: "Fall 2017", 
-  where: "Concordia University \n McGill University", 
-  what: "QCBS R Workshop Series \ \nIntroduction to ggplot2 & dplyr \ \nLinear Models in R",
-  position: "Workshop Instructor"}
+     where: "Concordia University \n McGill University", 
+     what: "QCBS R Workshop Series \ \nIntroduction to ggplot2 & dplyr \ \nLinear Models in R",
+     position: "Workshop Instructor"}
   - {year: "Winter 2017", 
-  where: "McGill University", 
-  what: "QCBS R Workshop Series \ \nGeneralized Linear Mixed Models \ \nMultivariate Analyses",
-  position: "Workshop Instructor"}
+     where: "McGill University", 
+     what: "QCBS R Workshop Series \ \nGeneralized Linear Mixed Models \ \nMultivariate Analyses",
+     position: "Workshop Instructor"}
   - {year: "Fall 2016", 
-  where: "Université du Québec à Montréal", 
-  what: "Séminaire en écologie et analyse des données (BIO3500)",
-  position: "Teaching Assistant"}
+     where: "Université du Québec à Montréal", 
+     what: "Séminaire en écologie et analyse des données (BIO3500)",
+     position: "Teaching Assistant"}
   - {year: "Fall 2016", 
-  where: "McGill University", 
-  what: "QCBS R Workshop Series \ \nIntroduction to R \ \nCharger et manipuler des données en R \ \nLoading and manipulating data in R \ \nIntroduction to ggplot \ \nLinear models \ \nProgramming in R",
-  position: "Workshop Instructor"}
+     where: "McGill University", 
+     what: "QCBS R Workshop Series \ \nIntroduction to R \ \nCharger et manipuler des données en R \ \nLoading and manipulating data in R \ \nIntroduction to ggplot \ \nLinear models \ \nProgramming in R",
+     position: "Workshop Instructor"}
   - {year: "Winter 2016", 
-  where: "McGill University", 
-  what: "QCBS R Workshop Series \ \nLinear mixed models \ \nAdvanced multivariate analyses \ \nProgramming in R",
-  position: "Workshop Instructor"}
+     where: "McGill University", 
+     what: "QCBS R Workshop Series \ \nLinear mixed models \ \nAdvanced multivariate analyses \ \nProgramming in R",
+     position: "Workshop Instructor"}
   - {year: "Winter 2013", 
-  where: "Federal University of Goiás", 
-  what: "Biostatistics",
-  position: "Teaching Assistant"}    
+     where: "Federal University of Goiás", 
+     what: "Biostatistics",
+     position: "Teaching Assistant"}
 
 professional:
   - {year: "2017-*Current*", 
-  where: "Montréal, Canada", 
-  what: "Québec Centre for Biodiversity Science",
-  position: "Coordinator of the QCBS R Workshop Series"}
-
+     where: "Montréal, Canada", 
+     what: "Québec Centre for Biodiversity Science",
+     position: "Coordinator of the QCBS R Workshop Series"}
+  
 award:
-  - {year: "2014-2018", 
-  name: "**Scholarship**: Science without Borders Ph.D. Scholarship from the National Council of Research and Development (CNPq) (249289/2013-0)", 
-  value: "CAD 160,000"}
+  - {year: "2019", 
+     name: "**Award**: Excellence Award from the Québec Centre for Biodiversity Science (QCBS)", 
+     value: "CAD 1,279"}
+  - {year: "2014-2018",
+     name: "**Scholarship**: Science without Borders Ph.D. Scholarship from the National Council of Research and Development (CNPq) (249289/2013-0)",
+     value: "CAD 160,000"}
   - {year: "2018", 
-  name: "**Award**: Learning and Development Award (LeaDA) from the Québec Centre for Biodiversity Science (QCBS)", 
-  value: "CAD 1,825"}
+     name: "**Award**: Learning and Development Award (LeaDA) from the Québec Centre for Biodiversity Science (QCBS)", 
+     value: "CAD 1,825"}
   - {year: "2018", 
-  name: "**Award**: Excellence Award from the Québec Centre for Biodiversity Science (QCBS)", 
-  value: "CAD 1,140"}
+     name: "**Award**: Excellence Award from the Québec Centre for Biodiversity Science (QCBS)", 
+     value: "CAD 1,140"}
   - {year: "2017", 
-  name: "**Award**: Learning and Development Award (LeaDA) from the Québec Centre for Biodiversity Science (QCBS)", 
-  value: "CAD 250"}
+     name: "**Award**: Learning and Development Award (LeaDA) from the Québec Centre for Biodiversity Science (QCBS)", 
+     value: "CAD 250"}
   - {year: "2017", 
-  name: "**Award**: Learning and Development Award (LeaDA) from the Québec Centre for Biodiversity Science (QCBS)", 
-  value: "CAD 963"}
+     name: "**Award**: Learning and Development Award (LeaDA) from the Québec Centre for Biodiversity Science (QCBS)", 
+     value: "CAD 963"}
   - {year: "2015", 
-  name: "**Award**: Non-tuition fees funding for the Intensive Course in Biodiversity Science from the Québec Centre for Biodiversity Science (QCBS)", 
-  value: "CAD 1380"}
+     name: "**Award**: Non-tuition fees funding for the Intensive Course in Biodiversity Science from the Québec Centre for Biodiversity Science (QCBS)", 
+     value: "CAD 1380"}
   - {year: "2015", 
-  name: "**Grant**: Deutscher Akademischer Austauschdienst (DAAD) travel grant for the 2015 iDiv Summer School on Biodiversity Synthesis", 
-  value: "EUR 1,450"}
+     name: "**Grant**: Deutscher Akademischer Austauschdienst (DAAD) travel grant for the 2015 iDiv Summer School on Biodiversity Synthesis", 
+     value: "EUR 1,450"}
   - {year: "2012-2014", 
-  name: "**Scholarship**: M.Sc. Scholarship from the Coordination for the Improvement of Higher Education Personnel (CAPES)", 
-  value: "BRL 28,800"}
+     name: "**Scholarship**: M.Sc. Scholarship from the Coordination for the Improvement of Higher Education Personnel (CAPES)", 
+     value: "BRL 28,800"}
   - {year: "2011-2012", 
-  name: "**Scholarship**: National Council of Research and Development (CNPq) Undergraduate Research Scholarship",
-  value: "BRL 3,000"}
-
+     name: "**Scholarship**: National Council of Research and Development (CNPq) Undergraduate Research Scholarship",
+     value: "BRL 3,000"}
+     
 membership: 
   - {year: "2016-*Current*", name: "International Biogeography Society, Student Member"}
   - {year: "2015-*Current*", name: "Québec Centre for Biodiversity Science, Student Representative"}
@@ -140,7 +152,9 @@ library("googlesheets")
 library("dplyr")
 ```
 
+
 ```{r presentations, eval = FALSE, echo = FALSE, message = FALSE, warning = FALSE}
+# gs_auth(new_user = TRUE)
 presentations <- gs_url("https://docs.google.com/spreadsheets/d/1uBPoPzRA4aY4tSeYbMXjpqEYKE0aGUEzKEopnxYyd9k/edit?usp=sharing",
                         verbose = FALSE) %>%
   gs_read(verbose = FALSE) %>%
