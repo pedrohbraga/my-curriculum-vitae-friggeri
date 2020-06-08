@@ -3,7 +3,7 @@ output:
   pdf_document:
     latex_engine: lualatex
     template: braga_php-cv-template.tex
-date: May 28, 2019
+date: May 15, 2020
 first: Pedro Henrique P. 
 last: Braga
 email: ph.pereirabraga@gmail.com
@@ -105,7 +105,7 @@ award:
      value: "CAD 1,279"}
   - {year: "2014-2018",
      name: "**Scholarship**: Science without Borders Ph.D. Scholarship from the National Council of Research and Development (CNPq) (249289/2013-0)",
-     value: "CAD 160,000"}
+     value: "CAD 140,000"}
   - {year: "2018", 
      name: "**Award**: Learning and Development Award (LeaDA) from the Québec Centre for Biodiversity Science (QCBS)", 
      value: "CAD 1,825"}
@@ -133,16 +133,18 @@ award:
      
 membership: 
   - {year: "2016-*Current*", name: "International Biogeography Society, Student Member"}
-  - {year: "2015-*Current*", name: "Québec Centre for Biodiversity Science, Student Representative"}
-  - {year: 2017-2017, name: "Ecology Society of America, Student Member"}
-  - {year: 2011-2012, name: "Brazilian Herpetology Society, Student Member"}
+  - {year: "2015-2019", name: "Québec Centre for Biodiversity Science, Student Representative"}
+  - {year: "2017-2017", name: "Ecology Society of America, Student Member"}
+  - {year: "2011-2012", name: "Brazilian Herpetology Society, Student Member"}
 
 bibliography: phpb-googlescholar.bib
 
 csl: apa.csl
 
 nocite: |
-  @peixoto2018synthesis, @peixoto2014global, 
+  @fournier2020spatialfrequency,
+  @peixoto2018synthesis, 
+  @peixoto2014global, 
   @batista2013dendropsophus,
   @maciel2013distribution
 ---

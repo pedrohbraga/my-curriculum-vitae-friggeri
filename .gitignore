@@ -1,3 +1,4 @@
 *.tex
 .httr-oauth
 .Rhistory
+.Rproj.user
