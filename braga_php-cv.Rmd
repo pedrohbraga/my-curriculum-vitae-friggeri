@@ -3,22 +3,29 @@ output:
   pdf_document:
     latex_engine: lualatex
     template: braga_php-cv-template.tex
-date: May 15, 2020
+date: Sep 29, 2020
 first: Pedro Henrique P. 
 last: Braga
 email: ph.pereirabraga@gmail.com
+emaildesc: "ph.pereirabraga [at] gmail.com"
 profilepic: avatar-phpb.jpg
 address: "Office SP 301.11, Department of Biology, Concordia University"
 website: "pedrohbraga.github.io"
 orcid: 0000-0002-1308-1562
+googlescholar: ISSe8H0AAAAJ
 languages: "English, French, Portuguese - fluent written & oral skills"
-programming: "**dev:** R **use:** R, Matlab, SQL, markdown, LaTeX, Julia"
 github: pedrohbraga
 twitter: pedrohp_braga
-attributes: "articulate, interpersonal and cooperative skills, proactive leadership, adaptive management and organisational skills, public speaking and communication skills, cheerful $\\Summertree$"
+attributes: "cooperative skills, proactive, adaptive management and organisational skills, public speaking and communication, cheerful $\\Summertree$"
 hobbies: "running, cycling, hiking, crafting and cooking"
-interests: "As an **evolutionary ecologist**, I am interested in using information on the **evolutionary history of species** and their **ecological attributes** to understand general **processes and mechanisms that generate biodiversity patterns**. In my research, I stress the **importance of phylogenetic and spatial scales and historical components of ecological and evolutionary drivers**. I practice and promote **open and reproducible science**. I am also dedicated towards the integration of evidence-based **active learning strategies** in my **teaching** and **scientific communication** abilities."
-
+interests: "As an **evolutionary ecologist** and a **biogeographer**, I am interested in using information on the **evolutionary history of species** and their **ecological attributes** to understand general **processes and mechanisms that generate biodiversity patterns**. In my research, I stress the **importance of phylogenetic and spatial scales and historical components of ecological and evolutionary drivers**. I practice and promote **open and reproducible science**. I am also dedicated towards the integration of evidence-based **active learning strategies** in my **teaching** and **scientific communication** abilities."
+skillset: 
+  - {cat: "Data Analysis", name: "I have a very strong foundation in R, where I concentrate most of my work. I have limited experience using Julia, SQL and MatLab."}
+  - {cat: "Reproducibility", name: "I create reports using RMarkdown, markdown, Sweave, RShiny, and LaTeX. I collaborate and perform version control using Git."}
+  - {cat: "Front-End and Back-End", name: "I am comfortable with using UNIX/Linux shell, and have limited experience with HTML and CSS."}
+  - {cat: "Spatial Data Operations", name: "I frequently perform spatial data operations using simple features and other R implementations (sf, sp, raster, rgeos, and others). I also have formal training and experience in using ArcGIS, QGIS, GDAL, GEOS and PROJ."}
+  - {cat: "Statistical Foundation", name: "I have a skilled basis in statistical and quantitative methods. I frequently apply univariate and multivariate statistics (including, generalized linear (mixed) models, generalized additive models, Eigenanalysis-based models, autoregressive and filtering models), Bayesian inference (BAMM), and extend them to simulations, species distribution models, and spatial and phylogenetic comparative methods (under parallel computing, if necessary)."}
+  - {cat: "Field and Laboratory", name: "I have four years of field and laboratory experience in bioacustics, zoology, sampling techniques, and identification of bats and frogs."}
 edu:
   - {degree: Ph.D.,
      description_1: "Student in Biology",
@@ -40,7 +47,7 @@ edu:
      description_3: "Supervisors: *Natan Medeiros **Maciel*** & *Paulo **De Marco***"}
      
 teaching:
-  - {year: "2019", 
+  - {year: "Winter-Fall 2019", 
      where: "Dawson College \n Concordia University", 
      what: "**S**upporting **A**ctive **L**earning and **T**echnological **I**nnovation in **S**tudies of **E**ducation (SALTISE)",
      position: "Pedagogical Formation"}
@@ -63,7 +70,7 @@ teaching:
   - {year: "Winter 2018", 
      where: "Concordia University", 
      what: "Fundamentals of Nutrition (eBIOL203)",
-     position: "Teaching Assistant"}
+     position: "Teaching Assistant (Remote Setting)"}
   - {year: "Winter 2018", 
      where: "Concordia University \n McGill University", 
      what: "QCBS R Workshop Series \ \nGeneralized Linear Mixed Models \ \nMultivariate Analyses",
@@ -93,19 +100,47 @@ teaching:
      what: "Biostatistics",
      position: "Teaching Assistant"}
 
+mentoring:
+  - {year: "2016-2017",
+     student: "Wayne Toh",
+     what: "Peer-mentoring under the Biology Graduate-Undergraduate Mentorship Program",
+     where: "Concordia University"}
+  - {year: "2013", 
+     student: "Larissa Pereira Lemes",
+     what: "Co-supervision with Dr. Natan Medeiros Maciel on her honour thesis: *Effectiveness and priority areas for anuran conservation in Brazil*",
+     where: "Federal University of Goiás"}
+
 professional:
   - {year: "2017-*Current*", 
      where: "Montréal, Canada", 
      what: "Québec Centre for Biodiversity Science",
-     position: "Coordinator of the QCBS R Workshop Series"}
-  
+     position: "Coordinator for the QCBS R Workshop Series"}
+  - {year: "2013-2014", 
+     where: "*Remote*", 
+     what: "Biostatistical consulting on research projects varying from clinical study designs to ecological research",
+     position: "Statistical Consultant"}
+  - {year: "2011-2012", 
+     where: "Montividiu and Paraúna, Brazil", 
+     what: "Environmental Assessment for Cosan Limited S.A. Sugar Cane Industries",
+     position: "Environmental Fieldwork Assessment (Chiroptera and Anura) and Statistical Consultant"}
+  - {year: "2011-2012", 
+     where: "Barro Alto and Niquelândia, Brazil", 
+     what: "Biodiversity monitoring of the areas that are directly influenced by Anglo American Brazil’s activities as part of the agreement with the Federal University of Goiás",
+     position: "Research Technician"}
+
 award:
+  - {year: "2020", 
+     name: "**Bursary**: Natural Sciences and Engineering Research Council (NSERC) Discovery Grant", 
+     value: "CAD 5,000"}
+  - {year: "2020", 
+     name: "**Bursary**: Natural Sciences and Engineering Research Council (NSERC) Discovery Grant", 
+     value: "CAD 5,000"}
   - {year: "2019", 
      name: "**Award**: Excellence Award from the Québec Centre for Biodiversity Science (QCBS)", 
      value: "CAD 1,279"}
   - {year: "2014-2018",
      name: "**Scholarship**: Science without Borders Ph.D. Scholarship from the National Council of Research and Development (CNPq) (249289/2013-0)",
-     value: "CAD 140,000"}
+     value: "CAD 180,000"}
   - {year: "2018", 
      name: "**Award**: Learning and Development Award (LeaDA) from the Québec Centre for Biodiversity Science (QCBS)", 
      value: "CAD 1,825"}
@@ -137,6 +172,10 @@ membership:
   - {year: "2017-2017", name: "Ecology Society of America, Student Member"}
   - {year: "2011-2012", name: "Brazilian Herpetology Society, Student Member"}
 
+reviewer:
+  - {year: 2019, journal: "Diversity and Distributions"}
+
+
 bibliography: phpb-googlescholar.bib
 
 csl: apa.csl
@@ -150,18 +189,18 @@ nocite: |
 ---
 
 ```{r, echo = FALSE, warning = FALSE, message = FALSE}
-library("googlesheets")
-library("dplyr")
+library("googlesheets4")
+library("tidyverse")
+library("glue")
 ```
 
 
 ```{r presentations, eval = FALSE, echo = FALSE, message = FALSE, warning = FALSE}
-# gs_auth(new_user = TRUE)
-presentations <- gs_url("https://docs.google.com/spreadsheets/d/1uBPoPzRA4aY4tSeYbMXjpqEYKE0aGUEzKEopnxYyd9k/edit?usp=sharing",
-                        verbose = FALSE) %>%
-  gs_read(verbose = FALSE) %>%
-  arrange(invited, 
+# gs4_auth()
+presentations <- read_sheet("https://docs.google.com/spreadsheets/d/1uBPoPzRA4aY4tSeYbMXjpqEYKE0aGUEzKEopnxYyd9k/edit?usp=sharing") %>%
+   arrange(invited, 
           desc(when))
+
 save(presentations, 
      file = "phpb-presentations.rda")
 ```

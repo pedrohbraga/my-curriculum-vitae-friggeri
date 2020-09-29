@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/W32TeX)  (format=lualatex 2020.5.16)  16 MAY 2020 02:30
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/W32TeX)  (format=lualatex 2020.6.17)  29 SEP 2020 19:32
  restricted system commands enabled.
 **braga_php-cv.tex
 (./braga_php-cv.tex
@@ -72,7 +72,7 @@ Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
 Lua module: luaotfload-tounicode 2020-05-06 3.14 luaotfload submodule / tounicod
 e
 Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
-. L3 programming layer <2020-05-14> (c:/Users/phper/AppData/Roaming/TinyTeX/tex
+. L3 programming layer <2020-06-03> (c:/Users/phper/AppData/Roaming/TinyTeX/tex
 mf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size10.clo
@@ -190,15 +190,15 @@ sty
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/
 xparse.sty
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2020-05-14 L3 programming layer (loader) 
+Package: expl3 2020-06-03 L3 programming layer (loader) 
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backen
 d-pdfmode.def
-File: l3backend-pdfmode.def 2020-05-05 L3 backend support: PDF mode
+File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count183
 \l__pdf_internal_box=\box47
 ))
-Package: xparse 2020-05-14 L3 Experimental document command parser
+Package: xparse 2020-05-15 L3 Experimental document command parser
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/
 xparse-generic.tex
@@ -304,7 +304,7 @@ LaTeX Warning: Command \underline  has changed.
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/parskip/parskip.st
 y
-Package: parskip 2020-01-22 v2.0d non-zero parskip adjustments
+Package: parskip 2020-06-15 v2.0f non-zero parskip adjustments
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoption
 s.sty
@@ -665,11 +665,11 @@ TextBlockOrigin set to 0pt x 0pt
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.
 sty
-Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pdftexcmds/pdftexc
 mds.sty
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+Package: pdftexcmds 2020-06-04 v0.32 Utility functions of pdfTeX for LuaTeX (HO)
 
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/infwarerr/infwar
@@ -707,7 +707,7 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.de
 f
-File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.
 sty
@@ -718,19 +718,19 @@ s.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count277
-Package hyperref Info: Hyper figures OFF on input line 4547.
-Package hyperref Info: Link nesting OFF on input line 4552.
-Package hyperref Info: Hyper index ON on input line 4555.
-Package hyperref Info: Plain pages OFF on input line 4562.
-Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4800.
+Package hyperref Info: Bookmarks ON on input line 4717.
 \c@Hy@tempcnt=\count278
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5159.
+LaTeX Info: Redefining \url on input line 5076.
 \XeTeXLinkMargin=\dimen172
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bitset/bitset.st
@@ -745,15 +745,15 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 \Fld@menulength=\count279
 \Field@Width=\dimen173
 \Fld@charsize=\dimen174
-Package hyperref Info: Hyper figures OFF on input line 6430.
-Package hyperref Info: Link nesting OFF on input line 6435.
-Package hyperref Info: Hyper index ON on input line 6438.
-Package hyperref Info: backreferencing OFF on input line 6445.
-Package hyperref Info: Link coloring OFF on input line 6450.
-Package hyperref Info: Link coloring with OCG OFF on input line 6455.
-Package hyperref Info: PDF/A mode OFF on input line 6460.
-LaTeX Info: Redefining \ref on input line 6500.
-LaTeX Info: Redefining \pageref on input line 6504.
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/atbegshi/atbegsh
 i.sty
@@ -767,10 +767,10 @@ Package hyperref Info: Driver (autodetected): hluatex.
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hluatex.d
 ef
-File: hluatex.def 2020/01/14 v7.00d Hyperref driver for luaTeX
+File: hluatex.def 2020-05-15 v7.00e Hyperref driver for luaTeX
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/stringenc/string
 enc.sty
@@ -1164,7 +1164,7 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2
 e/l3keys2e.sty
-Package: l3keys2e 2020-05-14 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2020-05-15 LaTeX2e option processing using LaTeX3 keys
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/frontendlaye
 r/tikz/libraries/tikzlibraryarrows.code.tex
@@ -1589,11 +1589,41 @@ LaTeX Font Info:    Font shape `TU/Lato-Black.ttf(0)/m/n' will be
 \g__tikzsymbols_savebox_F_0 g 0 G_10_BasicTree_1_brown!50!black_green!80!black_r
 ed!80!green_leaf_box=\box66
 LaTeX Font Info:    Font shape `TU/Lato-Black.ttf(0)/m/n' will be
-(Font)              scaled to size 14.36378pt on input line 286.
+(Font)              scaled to size 14.36378pt on input line 287.
+
+Overfull \hbox (10.0583pt too wide) in paragraph at lines 308--346
+[][] 
+ []
+
+
+Overfull \hbox (10.0583pt too wide) in paragraph at lines 308--346
+[] 
+ []
+
+
+Overfull \hbox (10.0583pt too wide) in paragraph at lines 308--346
+[] 
+ []
+
+
+Overfull \hbox (10.0583pt too wide) in paragraph at lines 308--346
+[] 
+ []
+
+
+Overfull \hbox (10.0583pt too wide) in paragraph at lines 308--346
+[] 
+ []
+
+
+Overfull \hbox (10.0583pt too wide) in paragraph at lines 308--346
+[] 
+ []
+
 LaTeX Font Info:    Font shape `TU/Lato-Light.ttf(0)/m/n' will be
-(Font)              scaled to size 8.66333pt on input line 305.
+(Font)              scaled to size 8.66333pt on input line 353.
 LaTeX Font Info:    Font shape `TU/Lato-Light.ttf(0)/m/it' will be
-(Font)              scaled to size 8.66333pt on input line 305.
+(Font)              scaled to size 8.66333pt on input line 353.
 luaotfload | aux : font no 131 (nil) does not define feature smcp for script lat
 n with language dflt
 luaotfload | aux : font no 132 (nil) does not define feature smcp for script lat
@@ -1634,87 +1664,17 @@ dflt;+tlig;color=999999FF
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 305--324
+Underfull \hbox (badness 10000) in paragraph at lines 353--372
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 305--324
+Underfull \hbox (badness 10000) in paragraph at lines 353--372
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 305--324
-
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 333--391
-[][] 
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 333--391
-[] 
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 333--391
-[] 
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 333--391
-[] 
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 333--391
-[] 
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 333--391
-[] 
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 333--391
-[] 
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 333--391
-[] 
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 333--391
-[] 
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 333--391
-[] 
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 333--391
-[] 
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 333--391
-[] 
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 333--391
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 333--391
+Underfull \hbox (badness 10000) in paragraph at lines 353--372
 
  []
 
@@ -1722,104 +1682,135 @@ Underfull \hbox (badness 10000) in paragraph at lines 333--391
 
 {c:/Users/phper/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex
 .map}<./avatar-phpb.jpg>]
-Underfull \hbox (badness 3861) in paragraph at lines 408--409
-\TU/Lato-Regular.ttf(1)/m/n/10 from the Québec Cen-tre for Bio-di-ver-sity Sci-
-ence
+Underfull \hbox (badness 10000) in paragraph at lines 382--382
+[]|\TU/Lato-Regular.ttf(1)/m/n/10 Winter-Fall
  []
 
 
-Underfull \hbox (badness 3861) in paragraph at lines 416--417
-\TU/Lato-Regular.ttf(1)/m/n/10 from the Québec Cen-tre for Bio-di-ver-sity Sci-
-ence
- []
-
-
-Underfull \hbox (badness 3861) in paragraph at lines 420--421
-\TU/Lato-Regular.ttf(1)/m/n/10 from the Québec Cen-tre for Bio-di-ver-sity Sci-
-ence
- []
-
-
-Underfull \hbox (badness 1281) in paragraph at lines 424--426
-[]|\TU/Lato-Regular.ttf(1)/b/n/10 Award\TU/Lato-Regular.ttf(1)/m/n/10 : Non-tuit
-ion fees fund-ing for the In-ten-sive
- []
-
-
-Underfull \hbox (badness 5908) in paragraph at lines 429--430
-[]|\TU/Lato-Regular.ttf(1)/b/n/10 Grant\TU/Lato-Regular.ttf(1)/m/n/10 : Deutsche
-r Akademis-cher Aus-tausch-di-enst
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 399--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
 [][] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 399--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 399--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 399--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 399--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 399--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 399--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 399--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 399--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 399--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 399--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
+[] 
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
+[] 
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--440
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--440
 
  []
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [2]
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 449--452
+Underfull \hbox (badness 1137) in paragraph at lines 451--451
+\TU/Lato-Regular.ttf(1)/m/n/10 Peer-mentoring un-der the Bi-ol-ogy Graduate-
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 449--459
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 449--452
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 449--459
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--459
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 460--473
+Underfull \hbox (badness 10000) in paragraph at lines 478--478
+[]\TU/Lato-Regular.ttf(1)/b/n/10 En-vi-ron-men-tal Field-work As-sess-ment (Chi-
+
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 469--485
+[][] 
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 469--485
+[] 
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 469--485
+[] 
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 469--485
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--485
 
  []
 
@@ -1828,13 +1819,120 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [3]
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [4]
+Underfull \hbox (badness 3861) in paragraph at lines 621--622
+\TU/Lato-Regular.ttf(1)/m/n/10 from the Québec Cen-tre for Bio-di-ver-sity Sci-
+ence
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 629--630
+\TU/Lato-Regular.ttf(1)/m/n/10 from the Québec Cen-tre for Bio-di-ver-sity Sci-
+ence
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 633--634
+\TU/Lato-Regular.ttf(1)/m/n/10 from the Québec Cen-tre for Bio-di-ver-sity Sci-
+ence
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 637--639
+[]|\TU/Lato-Regular.ttf(1)/b/n/10 Award\TU/Lato-Regular.ttf(1)/m/n/10 : Non-tuit
+ion fees fund-ing for the In-ten-sive
+ []
+
+
+Underfull \hbox (badness 5908) in paragraph at lines 642--643
+[]|\TU/Lato-Regular.ttf(1)/b/n/10 Grant\TU/Lato-Regular.ttf(1)/m/n/10 : Deutsche
+r Akademis-cher Aus-tausch-di-enst
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+[][] 
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+[] 
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+[] 
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+[] 
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+[] 
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+[] 
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+[] 
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+[] 
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+[] 
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+[] 
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+[] 
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 604--653
+
+ []
+
+
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 586.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 586.
+Underfull \hbox (badness 10000) in paragraph at lines 661--674
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 682--686
+
+ []
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[6]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 694.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 694.
 (./braga_php-cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 586.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 586.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 694.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 694.
 Package rerunfilecheck Info: File `braga_php-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1843,27 +1941,27 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 29689 strings out of 480887
+ 29694 strings out of 480885
  125171,1144653 words of node,token memory allocated
- 32969 words of node memory still in use:
-   484 hlist, 2 vlist, 2 rule, 1108 glue, 4 kern, 1 glyph, 3784 attribute, 59 gl
-ue_spec, 3303 attribute_list, 2 write, 1699 pdf_literal, 10 pdf_action, 274 pdf_
+ 32979 words of node memory still in use:
+   484 hlist, 2 vlist, 2 rule, 1108 glue, 4 kern, 1 glyph, 3785 attribute, 59 gl
+ue_spec, 3304 attribute_list, 2 write, 1699 pdf_literal, 11 pdf_action, 274 pdf_
 colorstack nodes
-   avail lists: 1:3,2:2340,3:2038,4:595,5:323,6:82,7:5825,8:54,9:1022,10:11,11:3
-64
- 46167 multiletter control sequences out of 65536+600000
- 141 fonts using 12458839 bytes
- 86i,20n,118p,1200b,2866s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 1:2,2:1564,3:1920,4:485,5:325,6:51,7:5276,8:46,9:780,10:13,11:35
+1
+ 46174 multiletter control sequences out of 65536+600000
+ 142 fonts using 12803067 bytes
+ 86i,20n,118p,1200b,2862s stack positions out of 5000i,500n,10000p,200000b,100000s
 <c:/Users/phper/AppData/Local/Microsoft/Windows/Fonts/Lato-BoldItalic.ttf><c:/Us
 ers/phper/AppData/Roaming/TinyTeX/texmf-dist/fonts/truetype/typoland/lato/Lato-L
 ightItalic.ttf><c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/fonts/truetype
 /typoland/lato/Lato-Light.ttf><c:/Windows/Fonts/Lato-Bold.ttf><c:/Windows/Fonts/
 Lato-Black.ttf><c:/Windows/Fonts/Lato-Regular.ttf><c:/Users/phper/AppData/Local/
 Microsoft/Windows/Fonts/Lato-Hairline.ttf>
-Output written on braga_php-cv.pdf (5 pages, 1240314 bytes).
+Output written on braga_php-cv.pdf (6 pages, 1245225 bytes).
 
-PDF statistics: 123 PDF objects out of 1000 (max. 8388607)
- 93 compressed objects within 1 object stream
+PDF statistics: 131 PDF objects out of 1000 (max. 8388607)
+ 100 compressed objects within 1 object stream
  11 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
