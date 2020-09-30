@@ -1,62 +1,66 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/W32TeX)  (format=lualatex 2020.6.17)  29 SEP 2020 19:32
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/W32TeX)  (format=lualatex 2020.9.29)  29 SEP 2020 20:37
  restricted system commands enabled.
 **braga_php-cv.tex
 (./braga_php-cv.tex
 LaTeX2e <2020-02-02> patch level 5
-Lua module: luaotfload-main 2020-05-06 3.14 luaotfload entry point
-Lua module: luaotfload-init 2020-05-06 3.14 luaotfload submodule / initializatio
+Lua module: luaotfload-main 2020-09-02 3.15 luaotfload entry point
+Lua module: luaotfload-init 2020-09-02 3.15 luaotfload submodule / initializatio
 n
-Lua module: lualibs 2020-05-01 2.71 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2020-05-01 2.71 ConTeXt Lua libraries -- extended c
+Lua module: lualibs 2020-08-31 2.72 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2020-08-31 2.72 ConTeXt Lua libraries -- extended c
 ollection.
-Lua module: luaotfload-log 2020-05-06 3.14 luaotfload submodule / logging
-Lua module: luaotfload-parsers 2020-05-06 3.14 luaotfload submodule / filelist
-Lua module: luaotfload-configuration 2020-05-06 3.14 luaotfload submodule / conf
+Lua module: luaotfload-log 2020-09-02 3.15 luaotfload submodule / logging
+Lua module: luaotfload-parsers 2020-09-02 3.15 luaotfload submodule / parsers
+Lua module: luaotfload-configuration 2020-09-02 3.15 luaotfload submodule / conf
 ig file reader
 luaotfload | conf : Root cache directory is "C:/Users/phper/AppData/Roaming/Tiny
-TeX/texmf-var/luatex-cache/generic-dev/names".
-luaotfload | init : Loading fontloader "fontloader-2020-05-06.lua" from kpse-res
+TeX/texmf-var/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2020-08-31.lua" from kpse-res
 olved path "c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/luatex/luaotfl
-oad/fontloader-2020-05-06.lua".
+oad/fontloader-2020-08-31.lua".
 Lua-only attribute luaotfload@noligature = 1
 Lua-only attribute luaotfload@syllabe = 2
 luaotfload | init : Context OpenType loader version 0x1.8e353f7ced917p+1
-Lua module: luaotfload-fallback 2020-05-06 3.14 luaotfload submodule / fallback
-Lua module: luaotfload-multiscript 2020-05-06 3.14 luaotfload submodule / multis
+Lua module: luaotfload-fallback 2020-09-02 3.15 luaotfload submodule / fallback
+Lua module: luaotfload-multiscript 2020-09-02 3.15 luaotfload submodule / multis
 cript
-Lua module: luaotfload-script 2020-05-06 3.14 luaotfload submodule / Script help
+Lua module: luaotfload-script 2020-09-02 3.15 luaotfload submodule / Script help
 ers
 Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
 Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
-Lua module: luaotfload-loaders 2020-05-06 3.14 luaotfload submodule / callback h
+Inserting `luaotfload.glyph_stream' at position 1 in `glyph_stream_provider'.
+Lua module: luaotfload-loaders 2020-09-02 3.15 luaotfload submodule / callback h
 andling
 Inserting `luaotfload.define_font' at position 1 in `define_font'.
-Lua module: luaotfload-database 2020-05-06 3.14 luaotfload submodule / database
-Lua module: luaotfload-unicode 2020-05-06 3.14 luaotfload submodule / Unicode he
+Lua module: luaotfload-database 2020-09-02 3.15 luaotfload submodule / database
+Lua module: luaotfload-unicode 2020-09-02 3.15 luaotfload submodule / Unicode he
 lpers
-Lua module: luaotfload-colors 2020-05-06 3.14 luaotfload submodule / color
+Lua module: luaotfload-colors 2020-09-02 3.15 luaotfload submodule / color
 Lua-only attribute luaotfload_color_attribute = 3
-Lua module: luaotfload-resolvers 2020-05-06 3.14 luaotfload submodule / resolver
+Lua module: luaotfload-resolvers 2020-09-02 3.15 luaotfload submodule / resolver
 s
 luaotfload | conf : Root cache directory is "C:/Users/phper/AppData/Roaming/Tiny
-TeX/texmf-var/luatex-cache/generic-dev/names".
-Lua module: luaotfload-features 2020-05-06 3.14 luaotfload submodule / features
-Lua module: luaotfload-harf-define 2020-05-06 3.14 luaotfload submodule / databa
-se
+TeX/texmf-var/luatex-cache/generic/names".
+Lua module: luaotfload-features 2020-09-02 3.15 luaotfload submodule / features
+Lua module: luaotfload-harf-define 2020-09-02 3.15 luaotfload submodule / HarfBu
+zz font loading
 Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
 Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
-Lua module: luaotfload-harf-plug 2020-05-06 3.14 luaotfload submodule / database
+Lua module: luaotfload-harf-plug 2020-09-02 3.15 luaotfload submodule / HarfBuzz
+ shaping
 Inserting `Harf pre_output_filter callback' at position 1 in `pre_output_filter'
 .
 Inserting `Harf wrapup_run callback' at position 1 in `wrapup_run'.
 Inserting `Harf finish_pdffile callback' at position 1 in `finish_pdffile'.
 Inserting `Harf glyph_info callback' at position 1 in `glyph_info'.
-Lua module: luaotfload-letterspace 2020-05-06 3.14 luaotfload submodule / color
-Lua module: luaotfload-embolden 2020-05-06 3.14 luaotfload submodule / color
-Lua module: luaotfload-notdef 2020-05-06 3.14 luaotfload submodule / color
-Lua module: luaotfload-suppress 2020-05-06 3.14 luaotfload submodule / suppress
-Lua module: luaotfload-szss 2020-05-06 3.14 luaotfload submodule / color
-Lua module: luaotfload-auxiliary 2020-05-06 3.14 luaotfload submodule / auxiliar
+Lua module: luaotfload-letterspace 2020-09-02 3.15 luaotfload submodule / letter
+spacing
+Lua module: luaotfload-embolden 2020-09-02 3.15 luaotfload submodule / embolden
+Lua module: luaotfload-notdef 2020-09-02 3.15 luaotfload submodule / notdef
+Lua module: luaotfload-suppress 2020-09-02 3.15 luaotfload submodule / suppress
+Lua module: luaotfload-szss 2020-09-02 3.15 luaotfload submodule / Special featu
+re handling
+Lua module: luaotfload-auxiliary 2020-09-02 3.15 luaotfload submodule / auxiliar
 y functions
 Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
 font'.
@@ -69,24 +73,24 @@ t_unsafe'.
 Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
-Lua module: luaotfload-tounicode 2020-05-06 3.14 luaotfload submodule / tounicod
+Lua module: luaotfload-tounicode 2020-09-02 3.15 luaotfload submodule / tounicod
 e
 Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
-. L3 programming layer <2020-06-03> (c:/Users/phper/AppData/Roaming/TinyTeX/tex
+. L3 programming layer <2020-09-24> (c:/Users/phper/AppData/Roaming/TinyTeX/tex
 mf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 luaotfload | db : Font names database loaded from C:/Users/phper/AppData/Roaming
-/TinyTeX/texmf-var/luatex-cache/generic-dev/names/luaotfload-names.luc)
-\c@part=\count163
-\c@section=\count164
-\c@subsection=\count165
-\c@subsubsection=\count166
-\c@paragraph=\count167
-\c@subparagraph=\count168
-\c@figure=\count169
-\c@table=\count170
+/TinyTeX/texmf-var/luatex-cache/generic/names/luaotfload-names.luc)
+\c@part=\count164
+\c@section=\count165
+\c@subsection=\count166
+\c@subsubsection=\count167
+\c@paragraph=\count168
+\c@subparagraph=\count169
+\c@figure=\count170
+\c@table=\count171
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
@@ -127,13 +131,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count171
+\inf@bad=\count172
 LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count172
-\leftroot@=\count173
+\uproot@=\count173
+\leftroot@=\count174
 LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count174
-\DOTSCASE@=\count175
+\classnum@=\count175
+\DOTSCASE@=\count176
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
@@ -142,15 +146,15 @@ LaTeX Info: Redefining \cdots on input line 610.
 \big@size=\dimen137
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count176
-\c@MaxMatrixCols=\count177
+\macc@depth=\count177
+\c@MaxMatrixCols=\count178
 \dotsspace@=\muskip16
-\c@parentequation=\count178
-\dspbrk@lvl=\count179
+\c@parentequation=\count179
+\dspbrk@lvl=\count180
 \tag@help=\toks17
-\row@=\count180
-\column@=\count181
-\maxfields@=\count182
+\row@=\count181
+\column@=\count182
+\maxfields@=\count183
 \andhelp@=\toks18
 \eqnshift@=\dimen138
 \alignsep@=\dimen139
@@ -190,22 +194,22 @@ sty
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/
 xparse.sty
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2020-06-03 L3 programming layer (loader) 
+Package: expl3 2020-09-24 L3 programming layer (loader) 
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backen
-d-pdfmode.def
-File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count183
+d-luatex.def
+File: l3backend-luatex.def 2020-09-24 L3 backend support: PDF output (LuaTeX)
+\l__kernel_color_stack_int=\count184
 \l__pdf_internal_box=\box47
 ))
 Package: xparse 2020-05-15 L3 Experimental document command parser
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/
 xparse-generic.tex
-\l__xparse_current_arg_int=\count184
-\g__xparse_grabber_int=\count185
-\l__xparse_m_args_int=\count186
-\l__xparse_v_nesting_int=\count187
+\l__xparse_current_arg_int=\count185
+\g__xparse_grabber_int=\count186
+\l__xparse_m_args_int=\count187
+\l__xparse_v_nesting_int=\count188
 ))
 Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
 Lua module: fontspec 2020/02/21 2.7i Font selection for XeLaTeX and LuaLaTeX
@@ -213,17 +217,17 @@ Lua module: fontspec 2020/02/21 2.7i Font selection for XeLaTeX and LuaLaTeX
 luatex.sty
 Package: fontspec-luatex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count188
-\l__fontspec_language_int=\count189
-\l__fontspec_strnum_int=\count190
-\l__fontspec_tmp_int=\count191
-\l__fontspec_tmpa_int=\count192
-\l__fontspec_tmpb_int=\count193
-\l__fontspec_tmpc_int=\count194
-\l__fontspec_em_int=\count195
-\l__fontspec_emdef_int=\count196
-\l__fontspec_strong_int=\count197
-\l__fontspec_strongdef_int=\count198
+\l__fontspec_script_int=\count189
+\l__fontspec_language_int=\count190
+\l__fontspec_strnum_int=\count191
+\l__fontspec_tmp_int=\count192
+\l__fontspec_tmpa_int=\count193
+\l__fontspec_tmpb_int=\count194
+\l__fontspec_tmpc_int=\count195
+\l__fontspec_em_int=\count196
+\l__fontspec_emdef_int=\count197
+\l__fontspec_strong_int=\count198
+\l__fontspec_strongdef_int=\count199
 \l__fontspec_tmpa_dim=\dimen144
 \l__fontspec_tmpb_dim=\dimen145
 \l__fontspec_tmpc_dim=\dimen146
@@ -249,11 +253,11 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
 )
 \MT@toks=\toks22
-\MT@count=\count199
+\MT@count=\count266
 LaTeX Info: Redefining \textls on input line 790.
 \MT@outer@kern=\dimen147
 LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
-\MT@listname@count=\count266
+\MT@listname@count=\count267
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/microtyp
 e-luatex.def
@@ -276,9 +280,9 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count267
-\Gm@cntv=\count268
-\c@Gm@tempcnt=\count269
+\Gm@cnth=\count268
+\Gm@cntv=\count269
+\c@Gm@tempcnt=\count270
 \Gm@bindingoffset=\dimen148
 \Gm@wd@mp=\dimen149
 \Gm@odd@mp=\dimen150
@@ -312,7 +316,7 @@ Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.
 sty
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetk
 eys.sty
@@ -320,8 +324,8 @@ Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.
 sty
-Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count270
+Package: etoolbox 2020/08/24 v2.5j e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count271
 ))
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.
 sty
@@ -347,7 +351,7 @@ Package xcolor Info: Driver file: luatex.def on input line 225.
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-def/luate
 x.def
-File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
+File: luatex.def 2020/08/26 v1.2 Graphics/color driver for luatex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
@@ -364,15 +368,15 @@ y
 Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count271
-\calc@Bcount=\count272
+\calc@Acount=\count272
+\calc@Bcount=\count273
 \calc@Adimen=\dimen161
 \calc@Bdimen=\dimen162
 \calc@Askip=\skip55
 \calc@Bskip=\skip56
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count273
+\calc@Ccount=\count274
 \calc@Cskip=\skip57
 ) (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
@@ -640,12 +644,13 @@ Inserting `luaotfload.color_handler' at position 1 in `post_linebreak_filter'.
 Inserting `luaotfload.color_handler' at position 2 in `hpack_filter'.
 Inserting `luaotfload.color_handler' at position 1 in `post_mlist_to_hlist_filte
 r'.
-\c@colorCounter=\count274
+\c@colorCounter=\count275
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/textpos/textpos.st
 y
-Package: textpos 2019/04/15 v1.9.1
-Package: textpos 2019/04/15 1.9.1, absolute positioning of text on the page
+Package: textpos 2020/09/26 v1.10
+Package: textpos 2020/09/26 1.10, absolute positioning of text on the page
+Package textpos Info: choosing support for LaTeX2e on input line 61.
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 )
@@ -660,16 +665,15 @@ Grid set 16 x 16 = 38.39343pt x 49.68562pt
 \TP@ox=\dimen168
 \TP@oy=\dimen169
 \TP@tbargs=\toks25
-\TP@prevdepth=\dimen170
 TextBlockOrigin set to 0pt x 0pt
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.
 sty
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
 
-(c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pdftexcmds/pdftexc
-mds.sty
-Package: pdftexcmds 2020-06-04 v0.32 Utility functions of pdfTeX for LuaTeX (HO)
+(c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdfte
+xcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
 
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/infwarerr/infwar
@@ -701,9 +705,9 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 y
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen171
-\Hy@linkcounter=\count275
-\Hy@pagecounter=\count276
+\@linkdim=\dimen170
+\Hy@linkcounter=\count276
+\Hy@pagecounter=\count277
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.de
 f
@@ -717,7 +721,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 s.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count277
+\Hy@SavedSpaceFactor=\count278
 Package hyperref Info: Hyper figures OFF on input line 4464.
 Package hyperref Info: Link nesting OFF on input line 4469.
 Package hyperref Info: Hyper index ON on input line 4472.
@@ -725,13 +729,13 @@ Package hyperref Info: Plain pages OFF on input line 4479.
 Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count278
+\c@Hy@tempcnt=\count279
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5076.
-\XeTeXLinkMargin=\dimen172
+\XeTeXLinkMargin=\dimen171
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bitset/bitset.st
 y
@@ -742,9 +746,9 @@ tcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 
 ))
-\Fld@menulength=\count279
-\Field@Width=\dimen173
-\Fld@charsize=\dimen174
+\Fld@menulength=\count280
+\Field@Width=\dimen172
+\Fld@charsize=\dimen173
 Package hyperref Info: Hyper figures OFF on input line 6347.
 Package hyperref Info: Link nesting OFF on input line 6352.
 Package hyperref Info: Hyper index ON on input line 6355.
@@ -759,9 +763,9 @@ LaTeX Info: Redefining \pageref on input line 6421.
 i.sty
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
-\Hy@abspage=\count280
-\c@Item=\count281
-\c@Hfootnote=\count282
+\Hy@abspage=\count281
+\c@Item=\count282
+\c@Hfootnote=\count283
 )
 Package hyperref Info: Driver (autodetected): hluatex.
 
@@ -781,8 +785,8 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 d.sty
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 )
-\Fld@listcount=\count283
-\c@bookmark@seq@number=\count284
+\Fld@listcount=\count284
+\c@bookmark@seq@number=\count285
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rer
 unfilecheck.sty
@@ -806,8 +810,8 @@ cs.sty
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pg
 futil-common.tex
 \pgfutil@everybye=\toks27
-\pgfutil@tempdima=\dimen175
-\pgfutil@tempdimb=\dimen176
+\pgfutil@tempdima=\dimen174
+\pgfutil@tempdimb=\dimen175
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pg
 futil-common-lists.tex))
@@ -819,9 +823,9 @@ futil-latex.def
 frcs.code.tex
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/pgf.revision
 .tex)
-Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+Package: pgfrcs 2020/09/28 v3.1.6 (3.1.6)
 ))
-Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+Package: pgf 2020/09/28 v3.1.6 (3.1.6)
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgf
 core.sty
@@ -841,14 +845,14 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: luatex.def on input line 105.
 )
-\Gin@req@height=\dimen177
-\Gin@req@width=\dimen178
+\Gin@req@height=\dimen176
+\Gin@req@width=\dimen177
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/systemlayer/pg
 fsys.sty
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/
 pgfsys.code.tex
-Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+Package: pgfsys 2020/09/28 v3.1.6 (3.1.6)
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pg
 fkeys.code.tex
@@ -859,54 +863,54 @@ fkeys.code.tex
 fkeysfiltered.code.tex
 \pgfkeys@tmptoks=\toks30
 ))
-\pgf@x=\dimen179
-\pgf@y=\dimen180
-\pgf@xa=\dimen181
-\pgf@ya=\dimen182
-\pgf@xb=\dimen183
-\pgf@yb=\dimen184
-\pgf@xc=\dimen185
-\pgf@yc=\dimen186
-\pgf@xd=\dimen187
-\pgf@yd=\dimen188
+\pgf@x=\dimen178
+\pgf@y=\dimen179
+\pgf@xa=\dimen180
+\pgf@ya=\dimen181
+\pgf@xb=\dimen182
+\pgf@yb=\dimen183
+\pgf@xc=\dimen184
+\pgf@yc=\dimen185
+\pgf@xd=\dimen186
+\pgf@yd=\dimen187
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count285
-\c@pgf@countb=\count286
-\c@pgf@countc=\count287
-\c@pgf@countd=\count288
+\c@pgf@counta=\count286
+\c@pgf@countb=\count287
+\c@pgf@countc=\count288
+\c@pgf@countd=\count289
 \t@pgf@toka=\toks31
 \t@pgf@tokb=\toks32
 \t@pgf@tokc=\toks33
-\pgf@sys@id@count=\count289
+\pgf@sys@id@count=\count290
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/
 pgf.cfg
-File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+File: pgf.cfg 2020/09/28 v3.1.6 (3.1.6)
 )
 Driver file for pgf: pgfsys-luatex.def
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/
 pgfsys-luatex.def
-File: pgfsys-luatex.def 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfsys-luatex.def 2020/09/28 v3.1.6 (3.1.6)
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/
 pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfsys-common-pdf.def 2020/09/28 v3.1.6 (3.1.6)
 )))
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/
 pgfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfsyssoftpath@smallbuffer@items=\count290
-\pgfsyssoftpath@bigbuffer@items=\count291
+File: pgfsyssoftpath.code.tex 2020/09/28 v3.1.6 (3.1.6)
+\pgfsyssoftpath@smallbuffer@items=\count291
+\pgfsyssoftpath@bigbuffer@items=\count292
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/
 pgfsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfsysprotocol.code.tex 2020/09/28 v3.1.6 (3.1.6)
 ))
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/p
 gfcore.code.tex
-Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+Package: pgfcore 2020/09/28 v3.1.6 (3.1.6)
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath
 .code.tex
@@ -916,8 +920,8 @@ calc.code.tex
 util.code.tex)
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath
 parser.code.tex
-\pgfmath@dimen=\dimen189
-\pgfmath@count=\count292
+\pgfmath@dimen=\dimen188
+\pgfmath@count=\count293
 \pgfmath@box=\box52
 \pgfmath@toks=\toks34
 \pgfmath@stack@operand=\toks35
@@ -943,127 +947,127 @@ functions.misc.code.tex)
 functions.integerarithmetics.code.tex)))
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath
 float.code.tex
-\c@pgfmathroundto@lastzeros=\count293
+\c@pgfmathroundto@lastzeros=\count294
 ))
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfint.
 code.tex)
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/p
 gfcorepoints.code.tex
-File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@picminx=\dimen190
-\pgf@picmaxx=\dimen191
-\pgf@picminy=\dimen192
-\pgf@picmaxy=\dimen193
-\pgf@pathminx=\dimen194
-\pgf@pathmaxx=\dimen195
-\pgf@pathminy=\dimen196
-\pgf@pathmaxy=\dimen197
-\pgf@xx=\dimen198
-\pgf@xy=\dimen199
-\pgf@yx=\dimen256
-\pgf@yy=\dimen257
-\pgf@zx=\dimen258
-\pgf@zy=\dimen259
+File: pgfcorepoints.code.tex 2020/09/28 v3.1.6 (3.1.6)
+\pgf@picminx=\dimen189
+\pgf@picmaxx=\dimen190
+\pgf@picminy=\dimen191
+\pgf@picmaxy=\dimen192
+\pgf@pathminx=\dimen193
+\pgf@pathmaxx=\dimen194
+\pgf@pathminy=\dimen195
+\pgf@pathmaxy=\dimen196
+\pgf@xx=\dimen197
+\pgf@xy=\dimen198
+\pgf@yx=\dimen199
+\pgf@yy=\dimen256
+\pgf@zx=\dimen257
+\pgf@zy=\dimen258
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/p
 gfcorepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@path@lastx=\dimen260
-\pgf@path@lasty=\dimen261
+File: pgfcorepathconstruct.code.tex 2020/09/28 v3.1.6 (3.1.6)
+\pgf@path@lastx=\dimen259
+\pgf@path@lasty=\dimen260
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/p
 gfcorepathusage.code.tex
-File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@shorten@end@additional=\dimen262
-\pgf@shorten@start@additional=\dimen263
+File: pgfcorepathusage.code.tex 2020/09/28 v3.1.6 (3.1.6)
+\pgf@shorten@end@additional=\dimen261
+\pgf@shorten@start@additional=\dimen262
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/p
 gfcorescopes.code.tex
-File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfcorescopes.code.tex 2020/09/28 v3.1.6 (3.1.6)
 \pgfpic=\box53
 \pgf@hbox=\box54
 \pgf@layerbox@main=\box55
-\pgf@picture@serial@count=\count294
+\pgf@picture@serial@count=\count295
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/p
 gfcoregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgflinewidth=\dimen264
+File: pgfcoregraphicstate.code.tex 2020/09/28 v3.1.6 (3.1.6)
+\pgflinewidth=\dimen263
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/p
 gfcoretransformations.code.tex
-File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@pt@x=\dimen265
-\pgf@pt@y=\dimen266
-\pgf@pt@temp=\dimen267
+File: pgfcoretransformations.code.tex 2020/09/28 v3.1.6 (3.1.6)
+\pgf@pt@x=\dimen264
+\pgf@pt@y=\dimen265
+\pgf@pt@temp=\dimen266
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/p
 gfcorequick.code.tex
-File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfcorequick.code.tex 2020/09/28 v3.1.6 (3.1.6)
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/p
 gfcoreobjects.code.tex
-File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfcoreobjects.code.tex 2020/09/28 v3.1.6 (3.1.6)
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/p
 gfcorepathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfcorepathprocessing.code.tex 2020/09/28 v3.1.6 (3.1.6)
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/p
 gfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfarrowsep=\dimen268
+File: pgfcorearrows.code.tex 2020/09/28 v3.1.6 (3.1.6)
+\pgfarrowsep=\dimen267
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/p
 gfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@max=\dimen269
-\pgf@sys@shading@range@num=\count295
-\pgf@shadingcount=\count296
+File: pgfcoreshade.code.tex 2020/09/28 v3.1.6 (3.1.6)
+\pgf@max=\dimen268
+\pgf@sys@shading@range@num=\count296
+\pgf@shadingcount=\count297
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/p
 gfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfcoreimage.code.tex 2020/09/28 v3.1.6 (3.1.6)
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/p
 gfcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfcoreexternal.code.tex 2020/09/28 v3.1.6 (3.1.6)
 \pgfexternal@startupbox=\box56
 ))
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/p
 gfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfcorelayers.code.tex 2020/09/28 v3.1.6 (3.1.6)
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/p
 gfcoretransparency.code.tex
-File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfcoretransparency.code.tex 2020/09/28 v3.1.6 (3.1.6)
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/p
 gfcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfcorepatterns.code.tex 2020/09/28 v3.1.6 (3.1.6)
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/p
 gfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfcorerdf.code.tex 2020/09/28 v3.1.6 (3.1.6)
 )))
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfm
 oduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfmoduleshapes.code.tex 2020/09/28 v3.1.6 (3.1.6)
 \pgfnodeparttextbox=\box57
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfm
 oduleplot.code.tex
-File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfmoduleplot.code.tex 2020/09/28 v3.1.6 (3.1.6)
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/compatibility/
 pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@nodesepstart=\dimen270
-\pgf@nodesepend=\dimen271
+Package: pgfcomp-version-0-65 2020/09/28 v3.1.6 (3.1.6)
+\pgf@nodesepstart=\dimen269
+\pgf@nodesepend=\dimen270
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/compatibility/
 pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+Package: pgfcomp-version-1-18 2020/09/28 v3.1.6 (3.1.6)
 ))
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgff
 or.sty
@@ -1077,54 +1081,54 @@ ty
 .code.tex))
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pg
 ffor.code.tex
-Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+Package: pgffor 2020/09/28 v3.1.6 (3.1.6)
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath
 .code.tex)
-\pgffor@iter=\dimen272
-\pgffor@skip=\dimen273
+\pgffor@iter=\dimen271
+\pgffor@skip=\dimen272
 \pgffor@stack=\toks37
 \pgffor@toks=\toks38
 ))
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/frontendlaye
 r/tikz/tikz.code.tex
-Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+Package: tikz 2020/09/28 v3.1.6 (3.1.6)
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/libraries/pg
 flibraryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@plot@mark@count=\count297
-\pgfplotmarksize=\dimen274
+File: pgflibraryplothandlers.code.tex 2020/09/28 v3.1.6 (3.1.6)
+\pgf@plot@mark@count=\count298
+\pgfplotmarksize=\dimen273
 )
-\tikz@lastx=\dimen275
-\tikz@lasty=\dimen276
-\tikz@lastxsaved=\dimen277
-\tikz@lastysaved=\dimen278
-\tikz@lastmovetox=\dimen279
-\tikz@lastmovetoy=\dimen280
-\tikzleveldistance=\dimen281
-\tikzsiblingdistance=\dimen282
+\tikz@lastx=\dimen274
+\tikz@lasty=\dimen275
+\tikz@lastxsaved=\dimen276
+\tikz@lastysaved=\dimen277
+\tikz@lastmovetox=\dimen278
+\tikz@lastmovetoy=\dimen279
+\tikzleveldistance=\dimen280
+\tikzsiblingdistance=\dimen281
 \tikz@figbox=\box58
 \tikz@figbox@bg=\box59
 \tikz@tempbox=\box60
 \tikz@tempbox@bg=\box61
-\tikztreelevel=\count298
-\tikznumberofchildren=\count299
-\tikznumberofcurrentchild=\count300
-\tikz@fig@count=\count301
+\tikztreelevel=\count299
+\tikznumberofchildren=\count300
+\tikznumberofcurrentchild=\count301
+\tikz@fig@count=\count302
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfm
 odulematrix.code.tex
-File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfmatrixcurrentrow=\count302
-\pgfmatrixcurrentcolumn=\count303
-\pgf@matrix@numberofcolumns=\count304
+File: pgfmodulematrix.code.tex 2020/09/28 v3.1.6 (3.1.6)
+\pgfmatrixcurrentrow=\count303
+\pgfmatrixcurrentcolumn=\count304
+\pgf@matrix@numberofcolumns=\count305
 )
-\tikz@expandcount=\count305
+\tikz@expandcount=\count306
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/frontendlaye
 r/tikz/libraries/tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: tikzlibrarytopaths.code.tex 2020/09/28 v3.1.6 (3.1.6)
 )))
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.
 sty
@@ -1141,9 +1145,9 @@ Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@O@orf=\skip67
 ) (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/array.sty
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen283
+\col@sep=\dimen282
 \ar@mcellbox=\box62
-\extrarowheight=\dimen284
+\extrarowheight=\dimen283
 \NC@list=\toks39
 \extratabsurround=\skip68
 \backup@length=\skip69
@@ -1152,8 +1156,8 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tabto-ltx/tabto.st
 y
 Package: tabto 2018/12/28  v 1.4  Another tabbing mechanism
-\CurrentLineWidth=\dimen285
-\TabPrevPos=\dimen286
+\CurrentLineWidth=\dimen284
+\TabPrevPos=\dimen285
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tikzsymbols/tikzsy
 mbols.sty
@@ -1168,12 +1172,12 @@ Package: l3keys2e 2020-05-15 LaTeX2e option processing using LaTeX3 keys
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/frontendlaye
 r/tikz/libraries/tikzlibraryarrows.code.tex
-File: tikzlibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: tikzlibraryarrows.code.tex 2020/09/28 v3.1.6 (3.1.6)
 
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/libraries/pg
 flibraryarrows.code.tex
-File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\arrowsize=\dimen287
+File: pgflibraryarrows.code.tex 2020/09/28 v3.1.6 (3.1.6)
+\arrowsize=\dimen286
 ))
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/frontendlaye
 r/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex
@@ -1181,14 +1185,14 @@ r/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex
 r/tikz/libraries/tikzlibrarydecorations.code.tex
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfm
 oduledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen288
-\pgfdecoratedremainingdistance=\dimen289
-\pgfdecoratedinputsegmentcompleteddistance=\dimen290
-\pgfdecoratedinputsegmentremainingdistance=\dimen291
-\pgf@decorate@distancetomove=\dimen292
-\pgf@decorate@repeatstate=\count306
-\pgfdecorationsegmentamplitude=\dimen293
-\pgfdecorationsegmentlength=\dimen294
+\pgfdecoratedcompleteddistance=\dimen287
+\pgfdecoratedremainingdistance=\dimen288
+\pgfdecoratedinputsegmentcompleteddistance=\dimen289
+\pgfdecoratedinputsegmentremainingdistance=\dimen290
+\pgf@decorate@distancetomove=\dimen291
+\pgf@decorate@repeatstate=\count307
+\pgfdecorationsegmentamplitude=\dimen292
+\pgfdecorationsegmentlength=\dimen293
 )
 \tikz@lib@dec@box=\box64
 )
@@ -1196,9 +1200,9 @@ oduledecorations.code.tex
 corations/pgflibrarydecorations.pathmorphing.code.tex))
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/frontendlaye
 r/tikz/libraries/tikzlibrarytrees.code.tex
-File: tikzlibrarytrees.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: tikzlibrarytrees.code.tex 2020/09/28 v3.1.6 (3.1.6)
 )
-\l__tikzsymbols_Moai_thickness_dim=\dimen295
+\l__tikzsymbols_Moai_thickness_dim=\dimen294
 )
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tikzpagenodes/tikz
 pagenodes.sty
@@ -1208,7 +1212,7 @@ age
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/ifoddpage/ifoddpag
 e.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count307
+\c@checkoddpage=\count308
 )) (./braga_php-cv.aux)
 \openout1 = braga_php-cv.aux
 
@@ -1275,204 +1279,6 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Lato-Regular.ttf' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\u A'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\u a'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v C'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v c'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v D'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v d'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v E'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v e'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\u G'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\u g'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\.I'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'L'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v L'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'l'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v l'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v N'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v n'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\H O'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\H o'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'R'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v R'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\'r'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v r'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\c S'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\c s'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\c T'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v T'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\c t'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\v t'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\H U'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\r U'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\H u'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
-
-Package microtype Warning: Unknown slot number of character
-(microtype)                `\r u'
-(microtype)                in font encoding `TU' in inheritance list
-(microtype)                `microtype.cfg/376(protrusion)'.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
 *geometry* verbose mode - [ preamble ] result:
@@ -1534,7 +1340,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count308
+\c@section@level=\count309
 )
 LaTeX Info: Redefining \ref on input line 243.
 LaTeX Info: Redefining \pageref on input line 243.
@@ -1579,51 +1385,46 @@ LaTeX Font Info:    Trying to load font information for U+txsyc on input line 24
 (c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
-<avatar-phpb.jpg, id=9, 2180.145pt x 2180.145pt>
-File: avatar-phpb.jpg Graphic file (type jpg)
-<use avatar-phpb.jpg>
-Package luatex.def Info: avatar-phpb.jpg  used on input line 256.
-(luatex.def)             Requested size: 98.1023pt x 98.1023pt.
 LaTeX Font Info:    Font shape `TU/Lato-Black.ttf(0)/m/n' will be
-(Font)              scaled to size 11.96982pt on input line 260.
+(Font)              scaled to size 11.96982pt on input line 256.
 \g__tikzsymbols_savebox_F_0 g 0 G_10_BasicTree_1_brown!50!black_green!80!black_r
 ed!80!green_leaf_box=\box66
 LaTeX Font Info:    Font shape `TU/Lato-Black.ttf(0)/m/n' will be
-(Font)              scaled to size 14.36378pt on input line 287.
+(Font)              scaled to size 14.36378pt on input line 283.
 
-Overfull \hbox (10.0583pt too wide) in paragraph at lines 308--346
+Overfull \hbox (10.0583pt too wide) in paragraph at lines 304--342
 [][] 
  []
 
 
-Overfull \hbox (10.0583pt too wide) in paragraph at lines 308--346
+Overfull \hbox (10.0583pt too wide) in paragraph at lines 304--342
 [] 
  []
 
 
-Overfull \hbox (10.0583pt too wide) in paragraph at lines 308--346
+Overfull \hbox (10.0583pt too wide) in paragraph at lines 304--342
 [] 
  []
 
 
-Overfull \hbox (10.0583pt too wide) in paragraph at lines 308--346
+Overfull \hbox (10.0583pt too wide) in paragraph at lines 304--342
 [] 
  []
 
 
-Overfull \hbox (10.0583pt too wide) in paragraph at lines 308--346
+Overfull \hbox (10.0583pt too wide) in paragraph at lines 304--342
 [] 
  []
 
 
-Overfull \hbox (10.0583pt too wide) in paragraph at lines 308--346
+Overfull \hbox (10.0583pt too wide) in paragraph at lines 304--342
 [] 
  []
 
 LaTeX Font Info:    Font shape `TU/Lato-Light.ttf(0)/m/n' will be
-(Font)              scaled to size 8.66333pt on input line 353.
+(Font)              scaled to size 8.66333pt on input line 349.
 LaTeX Font Info:    Font shape `TU/Lato-Light.ttf(0)/m/it' will be
-(Font)              scaled to size 8.66333pt on input line 353.
+(Font)              scaled to size 8.66333pt on input line 349.
 luaotfload | aux : font no 131 (nil) does not define feature smcp for script lat
 n with language dflt
 luaotfload | aux : font no 132 (nil) does not define feature smcp for script lat
@@ -1664,153 +1465,148 @@ dflt;+tlig;color=999999FF
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 353--372
+Underfull \hbox (badness 10000) in paragraph at lines 349--368
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 353--372
+Underfull \hbox (badness 10000) in paragraph at lines 349--368
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 353--372
+Underfull \hbox (badness 10000) in paragraph at lines 349--368
 
  []
 
 [1
 
 {c:/Users/phper/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex
-.map}<./avatar-phpb.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 382--382
+.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 378--378
 []|\TU/Lato-Regular.ttf(1)/m/n/10 Winter-Fall
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 377--436
 [][] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 377--436
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 377--436
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 377--436
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 377--436
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 377--436
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 377--436
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 377--436
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 377--436
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 377--436
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 377--436
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 377--436
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 381--440
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 377--436
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--440
+Underfull \hbox (badness 10000) in paragraph at lines 377--436
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--440
+Underfull \hbox (badness 10000) in paragraph at lines 377--436
 
  []
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [2]
-Underfull \hbox (badness 1137) in paragraph at lines 451--451
-\TU/Lato-Regular.ttf(1)/m/n/10 Peer-mentoring un-der the Bi-ol-ogy Graduate-
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 449--459
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 445--455
 [][] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 449--459
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 445--455
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 449--459
+Underfull \hbox (badness 10000) in paragraph at lines 445--455
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 478--478
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
 []\TU/Lato-Regular.ttf(1)/b/n/10 En-vi-ron-men-tal Field-work As-sess-ment (Chi-
 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 469--485
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 465--481
 [][] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 469--485
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 465--481
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 469--485
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 465--481
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 469--485
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 465--481
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 469--485
+Underfull \hbox (badness 10000) in paragraph at lines 465--481
 
  []
 
@@ -1819,120 +1615,114 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [3]
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [4]
-Underfull \hbox (badness 3861) in paragraph at lines 621--622
+Underfull \hbox (badness 1424) in paragraph at lines 617--618
 \TU/Lato-Regular.ttf(1)/m/n/10 from the Québec Cen-tre for Bio-di-ver-sity Sci-
 ence
  []
 
 
-Underfull \hbox (badness 3861) in paragraph at lines 629--630
+Underfull \hbox (badness 1424) in paragraph at lines 625--626
 \TU/Lato-Regular.ttf(1)/m/n/10 from the Québec Cen-tre for Bio-di-ver-sity Sci-
 ence
  []
 
 
-Underfull \hbox (badness 3861) in paragraph at lines 633--634
+Underfull \hbox (badness 1424) in paragraph at lines 629--630
 \TU/Lato-Regular.ttf(1)/m/n/10 from the Québec Cen-tre for Bio-di-ver-sity Sci-
 ence
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 637--639
-[]|\TU/Lato-Regular.ttf(1)/b/n/10 Award\TU/Lato-Regular.ttf(1)/m/n/10 : Non-tuit
-ion fees fund-ing for the In-ten-sive
- []
-
-
-Underfull \hbox (badness 5908) in paragraph at lines 642--643
+Underfull \hbox (badness 3219) in paragraph at lines 638--639
 []|\TU/Lato-Regular.ttf(1)/b/n/10 Grant\TU/Lato-Regular.ttf(1)/m/n/10 : Deutsche
 r Akademis-cher Aus-tausch-di-enst
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 600--649
 [][] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 600--649
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 600--649
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 600--649
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 600--649
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 600--649
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 600--649
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 600--649
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 600--649
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 600--649
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 600--649
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 604--653
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 600--649
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 604--653
+Underfull \hbox (badness 10000) in paragraph at lines 600--649
 
  []
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 661--674
+Underfull \hbox (badness 10000) in paragraph at lines 657--670
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 682--686
+Underfull \hbox (badness 10000) in paragraph at lines 678--682
 
  []
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 694.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 694.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 690.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 690.
 (./braga_php-cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 694.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 694.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 690.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 690.
 Package rerunfilecheck Info: File `braga_php-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1941,27 +1731,29 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 29694 strings out of 480885
+ 29857 strings out of 481283
  125171,1144653 words of node,token memory allocated
- 32979 words of node memory still in use:
-   484 hlist, 2 vlist, 2 rule, 1108 glue, 4 kern, 1 glyph, 3785 attribute, 59 gl
-ue_spec, 3304 attribute_list, 2 write, 1699 pdf_literal, 11 pdf_action, 274 pdf_
+ 32969 words of node memory still in use:
+   484 hlist, 2 vlist, 2 rule, 1108 glue, 4 kern, 1 glyph, 3784 attribute, 59 gl
+ue_spec, 3303 attribute_list, 2 write, 1699 pdf_literal, 10 pdf_action, 274 pdf_
 colorstack nodes
-   avail lists: 1:2,2:1564,3:1920,4:485,5:325,6:51,7:5276,8:46,9:780,10:13,11:35
-1
- 46174 multiletter control sequences out of 65536+600000
- 142 fonts using 12803067 bytes
- 86i,20n,118p,1200b,2862s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 1:2,2:1739,3:1915,4:488,5:699,6:52,7:5357,8:46,9:771,10:14,11:35
+6
+ 45943 multiletter control sequences out of 65536+600000
+ 142 fonts using 20208507 bytes
+ 86i,20n,118p,1200b,2864s stack positions out of 5000i,500n,10000p,200000b,200000s
 <c:/Users/phper/AppData/Local/Microsoft/Windows/Fonts/Lato-BoldItalic.ttf><c:/Us
 ers/phper/AppData/Roaming/TinyTeX/texmf-dist/fonts/truetype/typoland/lato/Lato-L
 ightItalic.ttf><c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/fonts/truetype
-/typoland/lato/Lato-Light.ttf><c:/Windows/Fonts/Lato-Bold.ttf><c:/Windows/Fonts/
-Lato-Black.ttf><c:/Windows/Fonts/Lato-Regular.ttf><c:/Users/phper/AppData/Local/
-Microsoft/Windows/Fonts/Lato-Hairline.ttf>
-Output written on braga_php-cv.pdf (6 pages, 1245225 bytes).
+/typoland/lato/Lato-Light.ttf><c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist
+/fonts/truetype/typoland/lato/Lato-Bold.ttf><c:/Users/phper/AppData/Roaming/Tiny
+TeX/texmf-dist/fonts/truetype/typoland/lato/Lato-Black.ttf><c:/Users/phper/AppDa
+ta/Roaming/TinyTeX/texmf-dist/fonts/truetype/typoland/lato/Lato-Regular.ttf><c:/
+Users/phper/AppData/Local/Microsoft/Windows/Fonts/Lato-Hairline.ttf>
+Output written on braga_php-cv.pdf (6 pages, 133928 bytes).
 
-PDF statistics: 131 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
+PDF statistics: 129 PDF objects out of 1000 (max. 8388607)
+ 99 compressed objects within 1 object stream
  11 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

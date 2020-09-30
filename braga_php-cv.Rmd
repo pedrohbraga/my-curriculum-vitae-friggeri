@@ -8,16 +8,16 @@ first: Pedro Henrique P.
 last: Braga
 email: ph.pereirabraga@gmail.com
 emaildesc: "ph.pereirabraga [at] gmail.com"
-profilepic: avatar-phpb.jpg
+#profilepic: avatar-phpb.jpg
 address: "Office SP 301.11, Department of Biology, Concordia University"
 website: "pedrohbraga.github.io"
 orcid: 0000-0002-1308-1562
 googlescholar: ISSe8H0AAAAJ
-languages: "English, French, Portuguese - fluent written & oral skills"
+languages: "**excellent written and oral proficiency**: English, French, Portuguese; **studied**: Japanese, German"
 github: pedrohbraga
 twitter: pedrohp_braga
-attributes: "cooperative skills, proactive, adaptive management and organisational skills, public speaking and communication, cheerful $\\Summertree$"
-hobbies: "running, cycling, hiking, crafting and cooking"
+attributes: "cooperative skills, proactive and resourceful team participation, adaptive management and organisational skills, public speaking and communication, cheerful $\\Summertree$"
+#hobbies: "running, cycling, hiking, crafting and cooking"
 interests: "As an **evolutionary ecologist** and a **biogeographer**, I am interested in using information on the **evolutionary history of species** and their **ecological attributes** to understand general **processes and mechanisms that generate biodiversity patterns**. In my research, I stress the **importance of phylogenetic and spatial scales and historical components of ecological and evolutionary drivers**. I practice and promote **open and reproducible science**. I am also dedicated towards the integration of evidence-based **active learning strategies** in my **teaching** and **scientific communication** abilities."
 skillset: 
   - {cat: "Data Analysis", name: "I have a very strong foundation in R, where I concentrate most of my work. I have limited experience using Julia, SQL and MatLab."}
