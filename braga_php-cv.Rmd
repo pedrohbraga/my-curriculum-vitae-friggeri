@@ -3,7 +3,7 @@ output:
   pdf_document:
     latex_engine: lualatex
     template: braga_php-cv-template.tex
-date: Sep 29, 2020
+date: Oct 13, 2021
 first: Pedro Henrique P. 
 last: Braga
 email: ph.pereirabraga@gmail.com
@@ -18,19 +18,25 @@ github: pedrohbraga
 twitter: pedrohp_braga
 attributes: "cooperative skills, proactive and resourceful team participation, adaptive management and organisational skills, public speaking and communication, cheerful $\\Summertree$"
 #hobbies: "running, cycling, hiking, crafting and cooking"
-interests: "As an **evolutionary ecologist** and a **biogeographer**, I am interested in using information on the **evolutionary history of species** and their **ecological attributes** to understand general **processes and mechanisms that generate biodiversity patterns**. In my research, I stress the **importance of phylogenetic and spatial scales and historical components of ecological and evolutionary drivers**. I practice and promote **open and reproducible science**. I am also dedicated towards the integration of evidence-based **active learning strategies** in my **teaching** and **scientific communication** abilities."
+interests: "As an **evolutionary ecologist** and a **biogeographer**, I am interested in using information on the **evolutionary history of species** and their **ecological attributes** to understand how **processes and mechanisms that generate biodiversity patterns**. In my research, I stress the **importance of phylogenetic and spatial scales and historical components of ecological and evolutionary drivers**. I practice and promote **open and reproducible science**. I am also dedicated towards the integration of evidence-based **active learning strategies** in my **teaching** and **scientific communication** abilities."
 skillset: 
   - {cat: "Data Analysis", name: "I have a very strong foundation in R, where I concentrate most of my work. I have limited experience using Julia, SQL and MatLab."}
-  - {cat: "Reproducibility", name: "I create reports using RMarkdown, markdown, Sweave, RShiny, and LaTeX. I collaborate and perform version control using Git."}
-  - {cat: "Front-End and Back-End", name: "I am comfortable with using UNIX/Linux shell, and have limited experience with HTML and CSS."}
+  - {cat: "Reproducibility", name: "I create reports and presentations using RMarkdown, markdown, Sweave, RShiny, and LaTeX. I collaborate and perform version control using Git."}
+  - {cat: "Front-End and Back-End", name: "I am comfortable with using UNIX/Linux shell, and have limited experience with HTML, Go and CSS."}
   - {cat: "Spatial Data Operations", name: "I frequently perform spatial data operations using simple features and other R implementations (sf, sp, raster, rgeos, and others). I also have formal training and experience in using ArcGIS, QGIS, GDAL, GEOS and PROJ."}
   - {cat: "Statistical Foundation", name: "I have a skilled basis in statistical and quantitative methods. I frequently apply univariate and multivariate statistics (including, generalized linear (mixed) models, generalized additive models, Eigenanalysis-based models, autoregressive and filtering models), Bayesian inference (BAMM), and extend them to simulations, species distribution models, and spatial and phylogenetic comparative methods (under parallel computing, if necessary)."}
   - {cat: "Field and Laboratory", name: "I have four years of field and laboratory experience in bioacustics, zoology, sampling techniques, and identification of bats and frogs."}
 edu:
   - {degree: Ph.D.,
-     description_1: "Student in Biology",
-     when: "2014 to *Current*",
+     description_1: "Candidate in Biology",
+     when: "2016 to *Current*",
      where: "Concordia University, Montréal, CA",
+     description_2: "Thesis: *Spatial and phylogenetic scale-dependence in the evolutionary and ecological determinants of diversity patterns in bats*",
+     description_3: "Supervisors: *Pedro **Peres-Neto*** & *Steven **Kembel***"}
+  - {degree: Ph.D.,
+     description_1: "Student in Biology",
+     when: "2014 to 2016 - *Transfer*",
+     where: "Université du Québec à Montréal, Montréal, CA",
      description_2: "Thesis: *Spatial and phylogenetic scale-dependence in the evolutionary and ecological determinants of diversity patterns in bats*",
      description_3: "Supervisors: *Pedro **Peres-Neto*** & *Steven **Kembel***"}
   - {degree: M.Sc.,
@@ -47,6 +53,14 @@ edu:
      description_3: "Supervisors: *Natan Medeiros **Maciel*** & *Paulo **De Marco***"}
      
 teaching:
+  - {year: "Winter 2021", 
+     where: "*Remote*", 
+     what: "Generalized Linear Models in R",
+     position: "Workshop Instructor"}  
+  - {year: "Fall 2020", 
+     where: "*Remote*", 
+     what: "Introduction to Programming in R",
+     position: "Workshop Instructor"}  
   - {year: "Winter-Fall 2019", 
      where: "Dawson College \n Concordia University", 
      what: "**S**upporting **A**ctive **L**earning and **T**echnological **I**nnovation in **S**tudies of **E**ducation (SALTISE)",
@@ -85,7 +99,7 @@ teaching:
      position: "Workshop Instructor"}
   - {year: "Fall 2016", 
      where: "Université du Québec à Montréal", 
-     what: "Séminaire en écologie et analyse des données (BIO3500)",
+     what: "Séminaire en écologie et analyses des données (BIO3500)",
      position: "Teaching Assistant"}
   - {year: "Fall 2016", 
      where: "McGill University", 
@@ -103,7 +117,7 @@ teaching:
 mentoring:
   - {year: "2016-2017",
      student: "Wayne Toh",
-     what: "Peer-mentoring under the Biology Graduate-Undergraduate Mentorship Program",
+     what: "Peer-mentoring under the Concordia Biology Graduate-Undergraduate Mentorship Program",
      where: "Concordia University"}
   - {year: "2013", 
      student: "Larissa Pereira Lemes",
@@ -115,6 +129,26 @@ professional:
      where: "Montréal, Canada", 
      what: "Québec Centre for Biodiversity Science",
      position: "Coordinator for the QCBS R Workshop Series"}
+  - {year: "2018", 
+     where: "Montréal, Canada", 
+     what: "3rd Québec Centre for Biodiversity Science R Symposium",
+     position: "Event planner and coordinator"}
+  - {year: "2017", 
+     where: "Montréal, Canada", 
+     what: "2nd Québec Centre for Biodiversity Science R Symposium",
+     position: "Event planner and coordinator"}
+  - {year: "2017", 
+     where: "Montréal, Canada", 
+     what: "Québec Centre for Biodiversity Science Symposium",
+     position: "Event committee member for the eco-responsible certification"}
+  - {year: "2016", 
+     where: "Montréal, Canada", 
+     what: "Québec Centre for Biodiversity Science Symposium",
+     position: "Event committee member for the eco-responsible certification"}          
+  - {year: "2015", 
+     where: "Mont-Saint-Hilaire, Canada", 
+     what: "Organization of the QCBS Research Derby",
+     position: "Event planner and organizer"}         
   - {year: "2013-2014", 
      where: "*Remote*", 
      what: "Biostatistical consulting on research projects varying from clinical study designs to ecological research",
@@ -127,13 +161,18 @@ professional:
      where: "Barro Alto and Niquelândia, Brazil", 
      what: "Biodiversity monitoring of the areas that are directly influenced by Anglo American Brazil’s activities as part of the agreement with the Federal University of Goiás",
      position: "Research Technician"}
+  - {year: "2011-2012", 
+     where: "Goiânia, Brazil",
+     what: "XXII Conference for the Institute of Biological Sciences from the Federal University of Goiás",
+     position: "Conference organizer"}
+     
 
 award:
   - {year: "2020", 
-     name: "**Bursary**: Natural Sciences and Engineering Research Council (NSERC) Discovery Grant", 
+     name: "**Bursary**: Natural Sciences and Engineering Research Council (NSERC) Discovery Grant",
      value: "CAD 5,000"}
   - {year: "2020", 
-     name: "**Bursary**: Natural Sciences and Engineering Research Council (NSERC) Discovery Grant", 
+     name: "**Bursary**: Natural Sciences and Engineering Research Council (NSERC) Discovery Grant",
      value: "CAD 5,000"}
   - {year: "2019", 
      name: "**Award**: Excellence Award from the Québec Centre for Biodiversity Science (QCBS)", 
@@ -173,8 +212,8 @@ membership:
   - {year: "2011-2012", name: "Brazilian Herpetology Society, Student Member"}
 
 reviewer:
+  - {year: 2021, journal: "Marine Biology, Zoology"}
   - {year: 2019, journal: "Diversity and Distributions"}
-
 
 bibliography: phpb-googlescholar.bib
 
