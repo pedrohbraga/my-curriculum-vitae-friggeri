@@ -18,7 +18,7 @@ github: pedrohbraga
 twitter: pedrohp_braga
 attributes: "cooperative skills, proactive and resourceful team participation, adaptive management and organisational skills, public speaking and communication, cheerful $\\Summertree$"
 #hobbies: "running, cycling, hiking, crafting and cooking"
-interests: "As an **evolutionary ecologist** and a **biogeographer**, I am interested in using information on the **evolutionary history of species** and their **ecological attributes** to understand how **processes and mechanisms that generate biodiversity patterns**. In my research, I stress the **importance of phylogenetic and spatial scales and historical components of ecological and evolutionary drivers**. I practice and promote **open and reproducible science**. I am also dedicated towards the integration of evidence-based **active learning strategies** in my **teaching** and **scientific communication** abilities."
+interests: "As an **evolutionary ecologist** and a **biogeographer**, I am interested in using information on the **evolutionary history of species** and their **ecological attributes** to understand how **processes and mechanisms that generate biodiversity patterns**. In my research, I stress the **importance of phylogenetic and spatial scales and historical components of ecological and evolutionary drivers**. I practice and promote **open and reproducible science**. I am dedicated towards the integration of evidence-based **active learning strategies** in my **teaching** and **scientific communication** abilities. I also actively participate and contribute in the **organisation and implementation of academic projects** and workshop series."
 skillset: 
   - {cat: "Data Analysis", name: "I have a very strong foundation in R, where I concentrate most of my work. I have limited experience using Julia, SQL and MatLab."}
   - {cat: "Reproducibility", name: "I create reports and presentations using RMarkdown, markdown, Sweave, RShiny, and LaTeX. I collaborate and perform version control using Git."}
@@ -60,7 +60,7 @@ teaching:
   - {year: "Fall 2020", 
      where: "*Remote*", 
      what: "QCBS R Workshop Series \ \nIntroduction to Programming in R",
-     position: "Workshop Instructor"}  
+     position: "Workshop Instructor"}
   - {year: "2019", 
      where: "Dawson College \n Concordia University", 
      what: "**S**upporting **A**ctive **L**earning and **T**echnological **I**nnovation in **S**tudies of **E**ducation (SALTISE)",

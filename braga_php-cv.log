@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021/W32TeX)  (format=lualatex 2021.10.13)  14 OCT 2021 00:24
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021/W32TeX)  (format=lualatex 2021.10.14)  14 OCT 2021 11:12
  restricted system commands enabled.
 **braga_php-cv.tex
 (./braga_php-cv.tex
@@ -1304,19 +1304,14 @@ File: utxsyc.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `TU/Lato-Black.ttf(0)/m/n' will be
 (Font)              scaled to size 11.96982pt on input line 266.
-
-Overfull \hbox (5.87495pt too wide) in paragraph at lines 280--280
- []\TU/Lato-Regular.ttf(1)/m/n/10 truetruetruetruetruetrue
- []
-
 \g__tikzsymbols_savebox_F_0 g 0 G_10_BasicTree_1_brown!50!black_green!80!black_
 red!80!green_leaf_box=\box70
 LaTeX Font Info:    Font shape `TU/Lato-Black.ttf(0)/m/n' will be
-(Font)              scaled to size 14.36378pt on input line 291.
+(Font)              scaled to size 14.36378pt on input line 289.
 LaTeX Font Info:    Font shape `TU/Lato-Light.ttf(0)/m/n' will be
-(Font)              scaled to size 8.66333pt on input line 310.
+(Font)              scaled to size 8.66333pt on input line 308.
 LaTeX Font Info:    Font shape `TU/Lato-Light.ttf(0)/m/it' will be
-(Font)              scaled to size 8.66333pt on input line 311.
+(Font)              scaled to size 8.66333pt on input line 309.
 luaotfload | aux : font no 129 (nil) does not define feature smcp for script lat
 n with language dflt
 luaotfload | aux : font no 130 (nil) does not define feature smcp for script lat
@@ -1357,127 +1352,118 @@ e=dflt;+tlig;color=999999FF
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--315
+Underfull \hbox (badness 10000) in paragraph at lines 308--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--324
+Underfull \hbox (badness 10000) in paragraph at lines 314--322
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--324
+Underfull \hbox (badness 10000) in paragraph at lines 314--322
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 325--332
+Underfull \hbox (badness 10000) in paragraph at lines 323--330
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 325--332
+Underfull \hbox (badness 10000) in paragraph at lines 323--330
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--340
+Underfull \hbox (badness 10000) in paragraph at lines 331--338
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--340
+Underfull \hbox (badness 10000) in paragraph at lines 331--338
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--345
+Underfull \hbox (badness 10000) in paragraph at lines 339--343
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 363--363
-[]|\TU/Lato-Regular.ttf(1)/m/n/10 Winter-Fall
+Underfull \hbox (badness 10000) in paragraph at lines 370--370
+[]\TU/Lato-Regular.ttf(1)/b/n/10 Event com-mit-tee mem-ber for the eco-
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 354--438
+Underfull \hbox (badness 10000) in paragraph at lines 375--375
+[]\TU/Lato-Regular.ttf(1)/b/n/10 Event com-mit-tee mem-ber for the eco-
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 385--385
+\TU/Lato-Regular.ttf(1)/m/n/10 Biostatistical con-sult-ing on re-search projects
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--397
+\TU/Lato-Regular.ttf(1)/m/n/10 Biodiversity mon-i-tor-ing (Anu-ran and Chi-
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 352--404
 [][] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 354--438
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 352--404
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 354--438
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 352--404
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 354--438
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 352--404
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 354--438
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 352--404
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 354--438
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 352--404
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 354--438
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 352--404
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 354--438
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 352--404
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 354--438
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 352--404
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 354--438
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 352--404
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 354--438
-[] 
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 354--438
-[] 
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 354--438
-[] 
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 354--438
-[] 
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 354--438
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 354--438
+Underfull \hbox (badness 10000) in paragraph at lines 352--404
 
  []
 
@@ -1485,182 +1471,160 @@ Underfull \hbox (badness 10000) in paragraph at lines 354--438
 
 {c:/Users/phper/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex
 .map}]
-Underfull \hbox (badness 2538) in paragraph at lines 464--465
-\TU/Lato-Regular.ttf(1)/m/n/10 from the Québec Cen-tre for Bio-di-ver-sity Sci-
-ence
- []
-
-
-Underfull \hbox (badness 2538) in paragraph at lines 472--473
-\TU/Lato-Regular.ttf(1)/m/n/10 from the Québec Cen-tre for Bio-di-ver-sity Sci-
-ence
- []
-
-
-Underfull \hbox (badness 2538) in paragraph at lines 476--477
-\TU/Lato-Regular.ttf(1)/m/n/10 from the Québec Cen-tre for Bio-di-ver-sity Sci-
-ence
- []
-
-
-Underfull \hbox (badness 5908) in paragraph at lines 485--487
-[]|\TU/Lato-Regular.ttf(1)/b/n/10 Grant\TU/Lato-Regular.ttf(1)/m/n/10 : Deutsche
-r Akademis-cher Aus-tausch-di-enst
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 446--499
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 413--481
 [][] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 446--499
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 413--481
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 446--499
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 413--481
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 446--499
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 413--481
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 446--499
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 413--481
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 446--499
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 413--481
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 446--499
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 413--481
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 446--499
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 413--481
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 446--499
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 413--481
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 446--499
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 413--481
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 446--499
-[] 
- []
-
-
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 446--499
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 446--499
+Underfull \hbox (badness 10000) in paragraph at lines 413--481
 
  []
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 526--526
-[]\TU/Lato-Regular.ttf(1)/b/n/10 Event com-mit-tee mem-ber for the eco-
+Underfull \hbox (badness 2538) in paragraph at lines 507--508
+\TU/Lato-Regular.ttf(1)/m/n/10 from the Québec Cen-tre for Bio-di-ver-sity Sci-
+ence
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 531--531
-[]\TU/Lato-Regular.ttf(1)/b/n/10 Event com-mit-tee mem-ber for the eco-
+Underfull \hbox (badness 2538) in paragraph at lines 515--516
+\TU/Lato-Regular.ttf(1)/m/n/10 from the Québec Cen-tre for Bio-di-ver-sity Sci-
+ence
  []
 
 
-Underfull \hbox (badness 1127) in paragraph at lines 542--542
-\TU/Lato-Regular.ttf(1)/m/n/10 Biostatistical con-sult-ing on re-search projects
-
+Underfull \hbox (badness 2538) in paragraph at lines 519--520
+\TU/Lato-Regular.ttf(1)/m/n/10 from the Québec Cen-tre for Bio-di-ver-sity Sci-
+ence
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 548--548
-[]\TU/Lato-Regular.ttf(1)/b/n/10 En-vi-ron-men-tal Field-work As-sess-ment (Chi-
-
+Underfull \hbox (badness 5908) in paragraph at lines 528--530
+[]|\TU/Lato-Regular.ttf(1)/b/n/10 Grant\TU/Lato-Regular.ttf(1)/m/n/10 : Deutsche
+r Akademis-cher Aus-tausch-di-enst
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 508--562
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 489--542
 [][] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 508--562
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 489--542
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 508--562
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 489--542
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 508--562
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 489--542
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 508--562
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 489--542
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 508--562
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 489--542
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 508--562
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 489--542
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 508--562
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 489--542
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 508--562
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 489--542
 [] 
  []
 
 
-Overfull \hbox (7.83191pt too wide) in paragraph at lines 508--562
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 489--542
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 508--562
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 489--542
+[] 
+ []
+
+
+Overfull \hbox (7.83191pt too wide) in paragraph at lines 489--542
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--542
 
  []
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 570--585
+Underfull \hbox (badness 10000) in paragraph at lines 551--566
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 593--600
+Underfull \hbox (badness 10000) in paragraph at lines 574--581
 
  []
 
@@ -1680,15 +1644,15 @@ Package rerunfilecheck Info: File `braga_php-cv.out' has not changed.
 
 Here is how much of LuaTeX's memory you used:
  27782 strings out of 478112
- 244339,1144653 words of node,token memory allocated
+ 244327,1144653 words of node,token memory allocated
  30823 words of node memory still in use:
    484 hlist, 2 vlist, 2 rule, 835 glue, 4 kern, 1 glyph, 3721 attribute, 60 glu
 e_spec, 3240 attribute_list, 2 write, 1699 pdf_literal, 12 pdf_action, 274 pdf_c
 olorstack nodes
-   avail lists: 1:9,2:3174,3:5853,4:1487,5:2236,6:194,7:14637,8:40,9:2615,10:11,
-11:987
+   avail lists: 1:8,2:2591,3:5725,4:1399,5:2016,6:161,7:13782,8:36,9:2404,10:15,
+11:980
  46983 multiletter control sequences out of 65536+600000
- 140 fonts using 19626911 bytes
+ 140 fonts using 19624471 bytes
  102i,20n,118p,1200b,2862s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/fonts/truetype/typoland/lato/
 Lato-BoldItalic.ttf><c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/fonts/tru
@@ -1699,10 +1663,10 @@ phper/AppData/Roaming/TinyTeX/texmf-dist/fonts/truetype/typoland/lato/Lato-Black
 .ttf><c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/fonts/truetype/typoland/
 lato/Lato-Regular.ttf><c:/Users/phper/AppData/Roaming/TinyTeX/texmf-dist/fonts/t
 ruetype/typoland/lato/Lato-Hairline.ttf>
-Output written on braga_php-cv.pdf (6 pages, 134185 bytes).
+Output written on braga_php-cv.pdf (6 pages, 133272 bytes).
 
-PDF statistics: 141 PDF objects out of 1000 (max. 8388607)
- 110 compressed objects within 2 object streams
+PDF statistics: 133 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
  11 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
